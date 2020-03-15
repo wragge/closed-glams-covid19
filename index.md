@@ -38,6 +38,10 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 16 March 2020 – Closed to the public.
 
+### RAAF Museum, Point Cook
+
+* 15 March 2020 – Closed to the public until further notice. [More info...](https://www.facebook.com/RAAF.Museum/posts/2787178641395706)
+
 ### State Library of Victoria
 
 * 16 March 2020 – All public spaces are closed. [More info...](https://www.slv.vic.gov.au/closure)
