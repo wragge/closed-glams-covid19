@@ -1,4 +1,4 @@
-# closed-glams
+# closed-glams-covid19
 
 Keeping track of GLAM organisations that are closed or have restricted services due to COVID-19.
 
