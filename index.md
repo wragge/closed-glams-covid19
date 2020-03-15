@@ -2,7 +2,7 @@
 
 ## NSW
 
-### Art Gallery NSW
+### Art Gallery of NSW
 
 * 16 March 2020 – Gallery is open, but public programming has been cancelled. [More info...](https://www.artgallery.nsw.gov.au/information-visitors-covid-19/)
 
