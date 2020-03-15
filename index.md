@@ -1,5 +1,8 @@
 # Australian galleries, libraries, archives, or museums closed due to COVID-19
 
+* [NSW](#nsw)
+* [Victoria](#victoria)
+
 ## NSW
 
 ### Powerhouse Museum (MAAS)
@@ -23,5 +26,7 @@
 ----
 
 Last updated 16 March 2020, 9:45am.
+
+[Additions are welcome.](readme.html)
 
 Keep an eye on the [OzGLAM Twitter list](https://twitter.com/i/lists/806392080062939136) for more announcements from GLAM institutions.
