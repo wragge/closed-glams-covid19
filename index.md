@@ -2,6 +2,10 @@
 
 ## NSW
 
+### Art Gallery NSW
+
+* 16 March 2020 – Gallery is open, but public programming has been cancelled. [More info...](https://www.artgallery.nsw.gov.au/information-visitors-covid-19/)
+
 ### Powerhouse Museum (MAAS)
 
 * 16 March 2020 – Public and exhibition spaces are open, but public and education programs have been cancelled. [More info...](https://maas.museum/coronavirus-information/)
@@ -15,6 +19,10 @@
 ### Museums Victoria
 
 * 16 March 2020 – All public sites (including Melbourne Museum, Scienceworks, Immigration Museum, Royal Exhibition Building and IMAX) are closed. [More info...](https://museumsvictoria.com.au/about-us/coronavirus-covid-19-update/)
+
+### National Gallery of Victoria
+
+* 16 March 2020 – Closed to the public.
 
 ### State Library of Victoria
 
