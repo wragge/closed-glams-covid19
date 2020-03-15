@@ -24,6 +24,6 @@
 
 Last updated 16 March 2020, 9:45am.
 
-[Additions are welcome.](readme/)
+[Additions are welcome.](https://wragge.github.io/closed-glams-covid19/readme.html)
 
 Keep an eye on the [OzGLAM Twitter list](https://twitter.com/i/lists/806392080062939136) for more announcements from GLAM institutions.
