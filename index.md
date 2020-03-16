@@ -101,6 +101,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 ## Tasmania
 
+### MONA
+
+17 March 2020 – Closed from 18 March. [More info...](https://mona.net.au/virus-takes-mona-check)
+
 ### Tasmanian Museum & Art Gallery (TMAG)
 
 * 16 March 2020 – Museum is open, but public programs, tours, and school visits have been cancelled until 16 April. [More info...](https://www.tmag.tas.gov.au/whats_on/newsselect/2020articles/information_regarding_covid-19)
@@ -132,6 +136,10 @@ For more information on closures of state-owned cultural institutions in Victori
 ### Casey Cardinia Libraries
 
 * 16 March 2020 – Branches remain open, but library programs, events and outreach services have been suspended. [More info...](https://www.cclc.vic.gov.au/change-in-library-services-due-to-coronavirus-covid-19-pandemic/)
+
+### Chinese Museum
+
+* 17 March 2020 – Closed from 4pm on 17 March. Events and education services are cancelled or postponed. [More info...](https://chinesemuseum.com.au/)
 
 ### City of Melbourne Public Libraries
 
@@ -203,7 +211,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 16 March 2020, 8:30pm.
+Last updated 17 March 2020, 9:20am.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
