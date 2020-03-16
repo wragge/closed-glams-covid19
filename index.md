@@ -23,6 +23,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 16 March 2020 – Museum is open, but public programs, events, and school visits have been suspended. [More info...](https://www.nma.gov.au/visit-us/coronavirus/_recache)
 
+### National Portrait Gallery
+
+* 16 March 2020 – Gallery is open, but public programs, education activities, and events have been cancelled. [More info...](https://www.portrait.gov.au//content/event-cancellations)
+
 ## NSW
 
 ### Art Gallery of NSW
