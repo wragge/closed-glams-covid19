@@ -3,6 +3,7 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * [ACT](#act)
 * [New South Wales](#nsw)
+* [Northern Territory](#northern-territory)
 * [Queensland](#queensland)
 * [South Australia](#south-australia)
 * [Victoria](#victoria)
@@ -46,6 +47,12 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 ### Woollahra Municipal Council
 
 * 16 March 2020 – Public libraries closed including  Woollahra Library at Double Bay, Watsons Bay Library and Paddington Library. [More info...](https://www.woollahra.nsw.gov.au/news/articles/get_the_facts_covid-19#libraries)
+
+## Northern Territory
+
+### MAGNT
+
+* 16 March 2020 – Museum venues are still open, but Discovery Centres in MAGNT Darwin and Megafauna Central Alice Springs are closed. [Via FB](https://www.facebook.com/magnt.net.au/photos/a.293507787498892/1458386747677651/?type=3&theater)
 
 ## Queensland
 
@@ -129,7 +136,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 16 March 2020, 3:45pm.
+Last updated 16 March 2020, 4:05pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
