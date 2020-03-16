@@ -1,5 +1,11 @@
 # Australian galleries, libraries, archives, or museums closed due to COVID-19
 
+## ACT
+
+### National Gallery of Australia
+
+* 16 March 2020 –  Gallery is open, but public programs, education and members events have been suspended. [More info...](https://nga.gov.au/covid-19/)
+
 ## NSW
 
 ### Art Gallery of NSW
