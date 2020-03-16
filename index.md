@@ -12,6 +12,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 ## ACT
 
+### National Archives of Australia
+
+* 17 March 2020 – National and state offices remain open, but public events and talks, education programs, school holiday programs, and tours have been suspended. [More info...](https://www.naa.gov.au/visitor-update-coronavirus)
+
 ### National Film and Sound Archive
 
 * 16 March 2020 – Building closed from 4pm, 18 March. Education programs cancelled from 16 March, other events, screenings, and exhibitions cancelled from 4pm, 18 March to 30 April. [More info...](https://www.nfsa.gov.au/visit-us)
@@ -239,7 +243,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 17 March 2020, 10:05am.
+Last updated 17 March 2020, 10:40am.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
