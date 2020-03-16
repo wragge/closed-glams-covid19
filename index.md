@@ -52,7 +52,7 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 ### MAGNT
 
-* 16 March 2020 – Museum venues are still open, but Discovery Centres in MAGNT Darwin and Megafauna Central Alice Springs are closed. [Via FB](https://www.facebook.com/magnt.net.au/photos/a.293507787498892/1458386747677651/?type=3&theater)
+* 16 March 2020 – Museum venues are still open, but Discovery Centres in MAGNT Darwin and Megafauna Central Alice Springs are closed. [Via FB...](https://www.facebook.com/magnt.net.au/photos/a.293507787498892/1458386747677651/?type=3&theater)
 
 ## Queensland
 
