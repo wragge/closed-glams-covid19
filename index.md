@@ -68,6 +68,10 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 16 March 2020 – Public libraries closed including Ascot Vale, Flemington, Niddrie, Sam Merrifield, Avondale Heights. [More info...](https://mvcc.vic.gov.au/covid-19/)
 
+### Frankston City Libraries
+
+* 16 March 2020 – Today's Storytime and Code Club cancelled. [More info...](https://library.frankston.vic.gov.au/Whats_On/Today_Monday_16th_March_2020)
+
 ### Jewish Museum of Australia
 
 * 16 March 2020 – Closed to the public and all events postponed. [More info...](https://www.jewishmuseum.com.au/visit/)
