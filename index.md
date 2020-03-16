@@ -87,6 +87,10 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 16 March 2020 – Today's Storytime and Code Club cancelled. [More info...](https://library.frankston.vic.gov.au/Whats_On/Today_Monday_16th_March_2020)
 
+### Hellenic Museum
+
+* 16 March 2020 – Museum closed from 17 March until further notice. All scheduled events cancelled. [Via FB...](https://www.facebook.com/HellenicMuseum/photos/a.202451559797364/3672467282795757/?type=3&theater)
+
 ### Jewish Museum of Australia
 
 * 16 March 2020 – Closed to the public and all events postponed. [More info...](https://www.jewishmuseum.com.au/visit/)
@@ -125,7 +129,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 16 March 2020, 3:15pm.
+Last updated 16 March 2020, 3:45pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
