@@ -8,6 +8,7 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 * [South Australia](#south-australia)
 * [Tasmania](#tasmania)
 * [Victoria](#victoria)
+* [Western Australia](#western-australia)
 
 ## ACT
 
@@ -225,6 +226,10 @@ For more information on closures of state-owned cultural institutions in Victori
 ### Yarra Plenty Regional Library
 
 * 16 March 2020 – Library branches remain open, but public programs, events, and outreach services have been suspended for 30 days. [More info...](https://www.yprl.vic.gov.au/blogs/post/yprl-has-cancelled-all-programs-events-and-outreach-services-for-30-days/)
+
+## Western Australia
+
+* 16 March 2020 – The submarine HMAS Ovens is closed to the public. [More info...](http://museum.wa.gov.au/about/covid-19)
 
 ----
 
