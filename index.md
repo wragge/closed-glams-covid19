@@ -1,6 +1,11 @@
 # Australian GLAMs and COVID-19
 Tracking closures, cancellations, and reduced services in Australian galleries, libraries, archives, and museums.
 
+* [ACT](#act)
+* [New South Wales](#nsw)
+* [South Australia](#south-australia)
+* [Victoria](#victoria)
+
 ## ACT
 
 ### National Gallery of Australia
@@ -32,6 +37,12 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 ### Woollahra Municipal Council
 
 * 16 March 2020 – Public libraries closed including  Woollahra Library at Double Bay, Watsons Bay Library and Paddington Library. [More info...](https://www.woollahra.nsw.gov.au/news/articles/get_the_facts_covid-19#libraries)
+
+## South Australia
+
+### Ayers House Museum, National Trust SA
+
+* 16 March 2020 – Closed until 31 March. [More info...](https://www.nationaltrust.org.au/the-national-trust-of-south-australias-response-to-covid-19/)
 
 ## Victoria
 
