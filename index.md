@@ -12,6 +12,10 @@
 
 * 16 March 2020 – Gallery is open, but public programming has been cancelled. [More info...](https://www.artgallery.nsw.gov.au/information-visitors-covid-19/)
 
+### Chau Chak Wing Museum, University of Sydney
+
+* 16 March 2020 – All events cancelled.
+
 ### Powerhouse Museum (MAAS)
 
 * 16 March 2020 – Public and exhibition spaces are open, but public and education programs have been cancelled. [More info...](https://maas.museum/coronavirus-information/)
