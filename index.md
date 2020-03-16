@@ -93,6 +93,10 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 16 March 2020 – Closed to the public. [More info...](https://www.artscentremelbourne.com.au/temporary-closure)
 
+### Australian Sports Museum
+
+* 16 March – The museum, library, and MCG tours are closed until further notice. [More info...](https://www.australiansportsmuseum.org.au/)
+
 ### Casey Cardinia Libraries
 
 * 16 March 2020 – Branches remain open, but library programs, events and outreach services have been suspended. [More info...](https://www.cclc.vic.gov.au/change-in-library-services-due-to-coronavirus-covid-19-pandemic/)
@@ -151,7 +155,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 16 March 2020, 4:20pm.
+Last updated 16 March 2020, 4:40pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
