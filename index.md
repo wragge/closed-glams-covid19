@@ -1,4 +1,5 @@
-# Australian galleries, libraries, archives, or museums closed due to COVID-19
+# Australian GLAMs and COVID-19
+#### Closures and reduced services in Australian galleries, libraries, archives, and museums 
 
 ## ACT
 
