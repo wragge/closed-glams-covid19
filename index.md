@@ -181,6 +181,10 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 16 March 2020 – Closed to the public.
 
+### National Trust of Australia (Victoria)
+
+* 17 March 2020 – Properties remain open, but upcoming events have been cancelled or postponed. [More info...](https://www.nationaltrust.org.au/news/important-update-coronavirus/)
+
 ### Old Treasury Building and Museum
 
 * 16 March 2020 – Closed to the public until further notice. [More info...](https://www.oldtreasurybuilding.org.au/)
@@ -211,7 +215,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 17 March 2020, 9:20am.
+Last updated 17 March 2020, 9:30am.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
