@@ -34,6 +34,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 16 March 2020 – Closed from 17 to 31 March. [More info...](https://sydneyjewishmuseum.com.au/update-covid-19/)
 
+### Sydney Living Museums
+
+* 16 March 2020 – Museums and historic houses remain open, but all public programming has been suspended until 26 April. [More info...](https://sydneylivingmuseums.com.au/2020/03/16/update-covid-19)
+
 ### Woollahra Municipal Council
 
 * 16 March 2020 – Public libraries closed including  Woollahra Library at Double Bay, Watsons Bay Library and Paddington Library. [More info...](https://www.woollahra.nsw.gov.au/news/articles/get_the_facts_covid-19#libraries)
