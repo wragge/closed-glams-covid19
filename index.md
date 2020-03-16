@@ -57,6 +57,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 16 March 2020 – Museums and historic houses remain open, but all public programming has been suspended until 26 April. [More info...](https://sydneylivingmuseums.com.au/2020/03/16/update-covid-19)
 
+### Temora Aviation Museum
+
+* 16 March 2020 – The March 21 Showcase has been cancelled. [More info...](https://aviationmuseum.com.au/4625-2/)
+
 ### Woollahra Municipal Council
 
 * 16 March 2020 – Public libraries closed including  Woollahra Library at Double Bay, Watsons Bay Library and Paddington Library. [More info...](https://www.woollahra.nsw.gov.au/news/articles/get_the_facts_covid-19#libraries)
@@ -68,10 +72,6 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 * 16 March 2020 – Museum venues are still open, but Discovery Centres in MAGNT Darwin and in Megafauna Central Alice Springs are closed. [Via FB...](https://www.facebook.com/magnt.net.au/photos/a.293507787498892/1458386747677651/?type=3&theater)
 
 ## Queensland
-
-### RAAF Base Amberley Aviation Heritage Centre
-
-* 
 
 ### Museum of Brisbane
 
@@ -183,7 +183,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 16 March 2020, 5:50pm.
+Last updated 16 March 2020, 8:15pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
