@@ -145,6 +145,10 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 16 March 2020 – Today's Storytime and Code Club cancelled. [More info...](https://library.frankston.vic.gov.au/Whats_On/Today_Monday_16th_March_2020)
 
+### Goldfields Libraries
+
+* 16 March 2020 – Library programs, events, and outreach services have been suspended until 14 April. [More info...](https://www.ncgrl.vic.gov.au/)
+
 ### Hellenic Museum
 
 * 16 March 2020 – Museum closed from 17 March until further notice. All scheduled events cancelled. [Via FB...](https://www.facebook.com/HellenicMuseum/photos/a.202451559797364/3672467282795757/?type=3&theater)
@@ -195,7 +199,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 16 March 2020, 8:15pm.
+Last updated 16 March 2020, 8:30pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
