@@ -25,6 +25,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 16 March 2020 – The Library is open, but public events have been cancelled. [More info...](https://www.sl.nsw.gov.au/news/important-information-covid-19)
 
+### Sydney Jewish Museum
+
+* 16 March 2020 – Closed from 17 to 31 March. [More info...](https://sydneyjewishmuseum.com.au/update-covid-19/)
+
 ### Woollahra Municipal Council
 
 * 16 March 2020 – Public libraries closed including  Woollahra Library at Double Bay, Watsons Bay Library and Paddington Library. [More info...](https://www.woollahra.nsw.gov.au/news/articles/get_the_facts_covid-19#libraries)
