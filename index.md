@@ -77,6 +77,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 ## Queensland
 
+### HOTA
+
+* 16 March 2020 – Closed until the end of March. [More info...](https://hota.com.au/stories/hota-to-close-until-the-end-of-march/)
+
 ### Museum of Brisbane
 
 * 16 March 2020 – Museum is open, but public programming and tours have been suspended for at least two weeks.
