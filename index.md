@@ -88,6 +88,10 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 16 March 2020 – Closed to the public.
 
+### Old Treasury Building and Museum
+
+* 16 March 2020 – Closed to the public until further notice. [More info...](https://www.oldtreasurybuilding.org.au/)
+
 ### RAAF Museum, Point Cook
 
 * 15 March 2020 – Closed to the public until further notice. [More info...](https://www.facebook.com/RAAF.Museum/posts/2787178641395706)
