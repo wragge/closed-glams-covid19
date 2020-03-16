@@ -92,7 +92,7 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 ### Queensland Art Gallery
 
-* 17 March 2020 - Museum is open, but all public programs, events and tours have been cancelled until further notice. [More info...] (https://www.qagoma.qld.gov.au/visit/plan-your-visit)
+* 17 March 2020 - Museum is open, but all public programs, events and tours have been cancelled until further notice. [More info...](https://www.qagoma.qld.gov.au/visit/plan-your-visit)
 
 ## South Australia
 
@@ -239,7 +239,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 17 March 2020, 10:03am.
+Last updated 17 March 2020, 10:05am.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
