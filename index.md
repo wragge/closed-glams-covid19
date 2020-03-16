@@ -41,6 +41,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 16 March 2020 – All events cancelled.
 
+### Fighter World Aviation Museum
+
+* 16 March 2020 – Closed until further notice. [More info...](https://www.fighterworld.com.au/fighter-world-closed)
+
 ### Powerhouse Museum (MAAS)
 
 * 16 March 2020 – Public and exhibition spaces are open, but public and education programs have been cancelled. [More info...](https://maas.museum/coronavirus-information/)
