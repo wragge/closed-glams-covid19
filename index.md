@@ -134,6 +134,18 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 16 March 2020 – Public programs and events cancelled. [More info...](https://www.wyndham.vic.gov.au/news/event-cancellations-advice)
 
+### Art Gallery of Ballarat
+
+* 16 March 2020 – Closed until further notice. [More info...](https://www.ballarat.vic.gov.au/city-ballarat-facilities-closing-5pm)
+
+### Ballarat Libraries
+
+* 16 March 2020 – Closed until further notice. [More info...](https://www.ballarat.vic.gov.au/city-ballarat-facilities-closing-5pm)
+
+### Eureka Centre, Ballarat
+
+* 16 March 2020 – Closed until further notice. [More info...](https://www.ballarat.vic.gov.au/city-ballarat-facilities-closing-5pm)
+
 ----
 
 Last updated 16 March 2020, 4:05pm.
