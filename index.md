@@ -3,6 +3,7 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * [ACT](#act)
 * [New South Wales](#nsw)
+* [Queensland](#queensland)
 * [South Australia](#south-australia)
 * [Victoria](#victoria)
 
@@ -41,6 +42,12 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 ### Woollahra Municipal Council
 
 * 16 March 2020 – Public libraries closed including  Woollahra Library at Double Bay, Watsons Bay Library and Paddington Library. [More info...](https://www.woollahra.nsw.gov.au/news/articles/get_the_facts_covid-19#libraries)
+
+## Queensland
+
+### Museum of Brisbane
+
+* 16 March 2020 – Museum is open, but public programming and tours have been suspended for at least two weeks.
 
 ## South Australia
 
