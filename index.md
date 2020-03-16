@@ -229,6 +229,8 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ## Western Australia
 
+### Western Australian Museum
+
 * 16 March 2020 – The submarine HMAS Ovens is closed to the public. [More info...](http://museum.wa.gov.au/about/covid-19)
 
 ----
