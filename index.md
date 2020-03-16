@@ -100,6 +100,10 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 16 March 2020 – Closed to the public. Events and tours cancelled or postponed until at least the end of April. [More info...](https://www.historyvictoria.org.au/events-postponed/)
 
+### Shrine of Remembrance
+
+* 16 March 2020 – Closed until further notice. [More info...](https://www.shrine.org.au/Special-pages/Temporary-Closure)
+
 ### State Library of Victoria
 
 * 16 March 2020 – All public spaces are closed. [More info...](https://www.slv.vic.gov.au/closure)
