@@ -83,6 +83,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 ## South Australia
 
+### Art Gallery of South Australia
+
+* 16 March 2020 – Gallery is open, but public programs and member events have been suspended. [More info...](https://www.agsa.sa.gov.au/visit/agsas-response-covid-19/)
+
 ### Ayers House Museum, National Trust SA
 
 * 16 March 2020 – Closed until 31 March. [More info...](https://www.nationaltrust.org.au/the-national-trust-of-south-australias-response-to-covid-19/)
