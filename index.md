@@ -30,6 +30,10 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 16 March 2020 – Public libraries closed including Ascot Vale, Flemington, Niddrie, Sam Merrifield, Avondale Heights. [More info...](https://mvcc.vic.gov.au/covid-19/)
 
+### Jewish Museum of Australia
+
+* 16 March 2020 – Closed to the public and all events postponed. [More info...](https://www.jewishmuseum.com.au/visit/)
+
 ### Museums Victoria
 
 * 16 March 2020 – All public sites (including Melbourne Museum, Scienceworks, Immigration Museum, Royal Exhibition Building and IMAX) are closed. [More info...](https://museumsvictoria.com.au/about-us/coronavirus-covid-19-update/)
