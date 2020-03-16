@@ -1,5 +1,5 @@
 # Australian GLAMs and COVID-19
-Closures and reduced services in Australian galleries, libraries, archives, and museums 
+Tracking closures, cancellations, and reduced services in Australian galleries, libraries, archives, and museums.
 
 ## ACT
 
@@ -25,6 +25,10 @@ Closures and reduced services in Australian galleries, libraries, archives, and 
 
 * 16 March 2020 – The Library is open, but public events have been cancelled. [More info...](https://www.sl.nsw.gov.au/news/important-information-covid-19)
 
+### Woollahra Municipal Council
+
+* 16 March 2020 – Public libraries closed including  Woollahra Library at Double Bay, Watsons Bay Library and Paddington Library. [More info...](https://www.woollahra.nsw.gov.au/news/articles/get_the_facts_covid-19#libraries)
+
 ## Victoria
 
 For more information on closures of state-owned cultural institutions in Victoria, see [Creative Victoria](https://creative.vic.gov.au/news/2020/victorias-state-owned-cultural-institutions-temporarily-close-in-response-to-covid-19).
@@ -36,6 +40,10 @@ For more information on closures of state-owned cultural institutions in Victori
 ### Arts Centre Melbourne, Resource Centre
 
 * 16 March 2020 – Closed to the public. [More info...](https://www.artscentremelbourne.com.au/temporary-closure)
+
+### Casey Cardinia Libraries
+
+* 16 March 2020 – Branches remain open, but library programs, events and outreach services have been suspended. [More info...](https://www.cclc.vic.gov.au/change-in-library-services-due-to-coronavirus-covid-19-pandemic/)
 
 ### City of Melbourne Public Libraries
 
@@ -69,10 +77,13 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 16 March 2020 – All public spaces are closed. [More info...](https://www.slv.vic.gov.au/closure)
 
+### Wyndham City Libraries
+
+* 16 March 2020 – Public programs and events cancelled. [More info...](https://www.wyndham.vic.gov.au/news/event-cancellations-advice)
 
 ----
 
-Last updated 16 March 2020, 1:20pm.
+Last updated 16 March 2020, 1:45pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
