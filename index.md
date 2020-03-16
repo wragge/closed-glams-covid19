@@ -13,6 +13,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 16 March 2020 –  Gallery is open, but public programs, education and members events have been suspended. [More info...](https://nga.gov.au/covid-19/)
 
+### National Museum of Australia
+
+* 16 March 2020 – Museum is open, but public programs, events, and school visits have been suspended. [More info...](https://www.nma.gov.au/visit-us/coronavirus/_recache)
+
 ## NSW
 
 ### Art Gallery of NSW
