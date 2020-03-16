@@ -117,6 +117,10 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 16 March 2020 – Museum closed from 17 March until further notice. All scheduled events cancelled. [Via FB...](https://www.facebook.com/HellenicMuseum/photos/a.202451559797364/3672467282795757/?type=3&theater)
 
+### Islamic Museum of Australia
+
+* 16 March 2020 – Museum closed from 17 March, and all events postponed. [Via FB...](https://www.facebook.com/ISLAMICMUSEUM/photos/a.260206944013130/3115781795122283/?type=3&theater)
+
 ### Jewish Museum of Australia
 
 * 16 March 2020 – Closed to the public and all events postponed. [More info...](https://www.jewishmuseum.com.au/visit/)
