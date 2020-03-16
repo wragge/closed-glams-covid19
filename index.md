@@ -10,6 +10,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 ## ACT
 
+### National Film and Sound Archive
+
+* 16 March 2020 – Building closed from 4pm, 18 March. Education programs cancelled from 16 March, other events, screenings, and exhibitions cancelled from 4pm, 18 March to 30 April. [More info...](https://www.nfsa.gov.au/visit-us)
+
 ### National Gallery of Australia
 
 * 16 March 2020 –  Gallery is open, but public programs, education and members events have been suspended. [More info...](https://nga.gov.au/covid-19/)
