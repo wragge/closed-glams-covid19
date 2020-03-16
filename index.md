@@ -1,5 +1,5 @@
 # Australian GLAMs and COVID-19
-#### Closures and reduced services in Australian galleries, libraries, archives, and museums 
+Closures and reduced services in Australian galleries, libraries, archives, and museums 
 
 ## ACT
 
