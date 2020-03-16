@@ -19,6 +19,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 16 March 2020 –  Gallery is open, but public programs, education and members events have been suspended. [More info...](https://nga.gov.au/covid-19/)
 
+### National Library of Australia
+
+* 16 March 2020 – Library is open, but onsite public programs have been suspended. [More info...](https://www.nla.gov.au/stories/news/2020/03/16/visitor-update-covid-19)
+
 ### National Museum of Australia
 
 * 16 March 2020 – Museum is open, but public programs, events, and school visits have been suspended. [More info...](https://www.nma.gov.au/visit-us/coronavirus/_recache)
@@ -159,7 +163,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 16 March 2020, 4:40pm.
+Last updated 16 March 2020, 5:15pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
