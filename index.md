@@ -6,6 +6,7 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 * [Northern Territory](#northern-territory)
 * [Queensland](#queensland)
 * [South Australia](#south-australia)
+* [Tasmania](#tasmania)
 * [Victoria](#victoria)
 
 ## ACT
@@ -69,6 +70,12 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 ### Ayers House Museum, National Trust SA
 
 * 16 March 2020 – Closed until 31 March. [More info...](https://www.nationaltrust.org.au/the-national-trust-of-south-australias-response-to-covid-19/)
+
+## Tasmania
+
+### Tasmanian Museum & Art Gallery (TMAG)
+
+* 16 March 2020 – Museum is open, but public programs, tours, and school visits have been cancelled until 16 April. [More info...](https://www.tmag.tas.gov.au/whats_on/newsselect/2020articles/information_regarding_covid-19)
 
 ## Victoria
 
@@ -140,7 +147,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 16 March 2020, 4:05pm.
+Last updated 16 March 2020, 4:20pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
