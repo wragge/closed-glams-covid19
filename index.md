@@ -93,6 +93,10 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 16 March 2020 – Currently closed due to redevelopment. All partner events have been cancelled or postponed. [More info...](https://www.acmi.net.au/policies/coronavirus-covid-19-update/)
 
+### Art Gallery of Ballarat
+
+* 16 March 2020 – Closed until further notice. [More info...](https://www.ballarat.vic.gov.au/city-ballarat-facilities-closing-5pm)
+
 ### Arts Centre Melbourne, Resource Centre
 
 * 16 March 2020 – Closed to the public. [More info...](https://www.artscentremelbourne.com.au/temporary-closure)
@@ -100,6 +104,10 @@ For more information on closures of state-owned cultural institutions in Victori
 ### Australian Sports Museum
 
 * 16 March – The museum, library, and MCG tours are closed until further notice. [More info...](https://www.australiansportsmuseum.org.au/)
+
+### Ballarat Libraries
+
+* 16 March 2020 – Closed until further notice. [More info...](https://www.ballarat.vic.gov.au/city-ballarat-facilities-closing-5pm)
 
 ### Casey Cardinia Libraries
 
@@ -112,6 +120,10 @@ For more information on closures of state-owned cultural institutions in Victori
 ### City of Moonee Valley Libraries
 
 * 16 March 2020 – Public libraries closed including Ascot Vale, Flemington, Niddrie, Sam Merrifield, Avondale Heights. [More info...](https://mvcc.vic.gov.au/covid-19/)
+
+### Eureka Centre, Ballarat
+
+* 16 March 2020 – Closed until further notice. [More info...](https://www.ballarat.vic.gov.au/city-ballarat-facilities-closing-5pm)
 
 ### Frankston City Libraries
 
@@ -161,21 +173,9 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 16 March 2020 – Public programs and events cancelled. [More info...](https://www.wyndham.vic.gov.au/news/event-cancellations-advice)
 
-### Art Gallery of Ballarat
-
-* 16 March 2020 – Closed until further notice. [More info...](https://www.ballarat.vic.gov.au/city-ballarat-facilities-closing-5pm)
-
-### Ballarat Libraries
-
-* 16 March 2020 – Closed until further notice. [More info...](https://www.ballarat.vic.gov.au/city-ballarat-facilities-closing-5pm)
-
-### Eureka Centre, Ballarat
-
-* 16 March 2020 – Closed until further notice. [More info...](https://www.ballarat.vic.gov.au/city-ballarat-facilities-closing-5pm)
-
 ----
 
-Last updated 16 March 2020, 5:15pm.
+Last updated 16 March 2020, 5:30pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
