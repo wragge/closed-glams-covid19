@@ -161,6 +161,10 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 16 March 2020 – Library programs, events, and outreach services have been suspended until 14 April. [More info...](https://www.ncgrl.vic.gov.au/)
 
+### Greater Dandenong Libraries
+
+* 17 March 2020 – Library programs cancelled until the end of April. [More info...](https://greaterdandenong.com/news/2514/coronavirus-covid-19-update)
+
 ### Hellenic Museum
 
 * 16 March 2020 – Museum closed from 17 March until further notice. All scheduled events cancelled. [Via FB...](https://www.facebook.com/HellenicMuseum/photos/a.202451559797364/3672467282795757/?type=3&theater)
@@ -207,6 +211,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ### Wyndham City Libraries
 
+* 17 March 2020 – Libraries closed from Thursday 19 March. [More info...](https://www.wyndham.vic.gov.au/covid19)
 * 16 March 2020 – Public programs and events cancelled. [More info...](https://www.wyndham.vic.gov.au/news/event-cancellations-advice)
 
 ### Yarra Plenty Regional Library
@@ -215,7 +220,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 17 March 2020, 9:30am.
+Last updated 17 March 2020, 9:35am.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
