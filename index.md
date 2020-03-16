@@ -99,7 +99,15 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 16 March 2020 – Closed until 31 March. [More info...](https://www.nationaltrust.org.au/the-national-trust-of-south-australias-response-to-covid-19/)
 
+### State Library of South Australia
+
+* 16 March 2020 – [Statement from the Director of the State Library on COVID-19](https://www.slsa.sa.gov.au/news/announcement/2020/03/statement-from-director-of-state-library-regarding-covid-19)
+
 ## Tasmania
+
+### Libraries Tasmania
+
+16 March 2020 – [Advice to visitors](https://libraries.tas.gov.au/Pages/coronavirus.aspx)
 
 ### MONA
 
@@ -220,7 +228,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 17 March 2020, 9:35am.
+Last updated 17 March 2020, 10:00am.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
