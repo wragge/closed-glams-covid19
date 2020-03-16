@@ -22,6 +22,10 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 16 March 2020 – Currently closed due to redevelopment. All partner events have been cancelled or postponed. [More info...](https://www.acmi.net.au/policies/coronavirus-covid-19-update/)
 
+### Arts Centre Melbourne, Resource Centre
+
+* 16 March 2020 – Closed to the public. [More info...](https://www.artscentremelbourne.com.au/temporary-closure)
+
 ### City of Melbourne Public Libraries
 
 * 16 March 2020 – Public libraries closed including City Library in Flinders Lane, Kathleen Syme in Carlton, Library at The Dock in Docklands, East Melbourne, North Melbourne and Southbank Library at Boyd. [More info...](https://www.melbourne.vic.gov.au/news-and-media/Pages/Temporary-closure-of-some-Council-facilities.aspx)
@@ -53,7 +57,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 16 March 2020, 10:45am.
+Last updated 16 March 2020, 12:05pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
