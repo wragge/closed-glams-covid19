@@ -69,6 +69,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 ## Queensland
 
+### RAAF Base Amberley Aviation Heritage Centre
+
+* 
+
 ### Museum of Brisbane
 
 * 16 March 2020 – Museum is open, but public programming and tours have been suspended for at least two weeks.
@@ -173,9 +177,13 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 16 March 2020 – Public programs and events cancelled. [More info...](https://www.wyndham.vic.gov.au/news/event-cancellations-advice)
 
+### Yarra Plenty Regional Library
+
+* 16 March 2020 – Library branches remain open, but public programs, events, and outreach services have been suspended for 30 days. [More info...](https://www.yprl.vic.gov.au/blogs/post/yprl-has-cancelled-all-programs-events-and-outreach-services-for-30-days/)
+
 ----
 
-Last updated 16 March 2020, 5:30pm.
+Last updated 16 March 2020, 5:50pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
