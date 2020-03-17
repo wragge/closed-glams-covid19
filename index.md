@@ -216,6 +216,10 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 16 March 2020 – Library programs, events, and outreach services have been suspended until 14 April. [More info...](https://www.ncgrl.vic.gov.au/)
 
+### Grainger Museum, University of Melbourne
+
+* 17 March 2020 – Museum closed from 18 March. [More info...](https://grainger.unimelb.edu.au/news/Announcement-from-The-Grainger-Museum)
+
 ### Greater Dandenong Libraries
 
 * 17 March 2020 – Library programs cancelled until the end of April. [More info...](https://greaterdandenong.com/news/2514/coronavirus-covid-19-update)
