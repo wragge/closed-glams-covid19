@@ -94,13 +94,13 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 16 March 2020 – Museum is open, but public programming and tours have been suspended for at least two weeks.
 
-### Port Arthur Historic Site
-
-* 17 March 2020 - Site is open but providing updates to visitors and have advised that they are not currently taking cash payments. [More info...](https://portarthur.org.au/novel-coronavirus-covid-19/)
-
 ### Queensland Art Gallery
 
 * 17 March 2020 - Museum is open, but all public programs, events and tours have been cancelled until further notice. [More info...](https://www.qagoma.qld.gov.au/visit/plan-your-visit)
+
+### Queensland Museum
+
+* World Science Festival Brisbane is cancelled, museum remains open to the public. [More info...](https://www.worldsciencefestival.com.au/)
 
 ### RAAF Amberley Aviation Heritage Centre
 
@@ -142,6 +142,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 ### MONA
 
 17 March 2020 – Closed from 18 March. [More info...](https://mona.net.au/virus-takes-mona-check)
+
+### Port Arthur Historic Site
+
+* 17 March 2020 - Site is open but providing updates to visitors and have advised that they are not currently taking cash payments. [More info...](https://portarthur.org.au/novel-coronavirus-covid-19/)
 
 ### Tasmanian Museum & Art Gallery (TMAG)
 
@@ -264,7 +268,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 17 March 2020, 11:55am.
+Last updated 17 March 2020, 12:02pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
