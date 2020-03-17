@@ -209,6 +209,10 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 17 March 2020 – Closed from 4pm on 17 March. Events and education services are cancelled or postponed. [More info...](https://chinesemuseum.com.au/)
 
+### City of Darebin Libraries
+
+* 17 March 2020 – Branches at Northcote, Preston, Reservoir and Fairfield have closed until further notice. [More info...](http://www.darebin.vic.gov.au/Your-Say/News/Latest-News#Coronavirus-COVID-19-update)
+
 ### City of Melbourne Public Libraries
 
 * 16 March 2020 – Public libraries closed including City Library in Flinders Lane, Kathleen Syme in Carlton, Library at The Dock in Docklands, East Melbourne, North Melbourne and Southbank Library at Boyd. [More info...](https://www.melbourne.vic.gov.au/news-and-media/Pages/Temporary-closure-of-some-Council-facilities.aspx)
@@ -359,7 +363,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 17 March 2020, 2:54pm.
+Last updated 17 March 2020, 4:15pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
