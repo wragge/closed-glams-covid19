@@ -193,6 +193,10 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 17 March 2020 – All programs and events cancelled. [More info...](https://www.bayside.vic.gov.au/whats-bayside-libraries)
 
+### Buloke Shire Council Libraries
+
+* 17 March 2020 – Library Services have been suspended. Tyrrell College and Birchip P12 will continue to operate School library services only. [More info...](https://www.buloke.vic.gov.au/coronavirus-covid-19-health-alert)
+
 ### Casey Cardinia Libraries
 
 * 16 March 2020 – Branches remain open, but library programs, events and outreach services have been suspended. [More info...](https://www.cclc.vic.gov.au/change-in-library-services-due-to-coronavirus-covid-19-pandemic/)
