@@ -181,6 +181,10 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 16 March – The museum, library, and MCG tours are closed until further notice. [More info...](https://www.australiansportsmuseum.org.au/)
 
+### Ballarat Archives Centre
+
+* 16 March 2020 – Closed until further notice. [More info...](https://www.ballarat.vic.gov.au/city-ballarat-facilities-closing-5pm)
+
 ### Ballarat Libraries
 
 * 16 March 2020 – Closed until further notice. [More info...](https://www.ballarat.vic.gov.au/city-ballarat-facilities-closing-5pm)
@@ -212,6 +216,10 @@ For more information on closures of state-owned cultural institutions in Victori
 ### Frankston City Libraries
 
 * 16 March 2020 – Today's Storytime and Code Club cancelled. [More info...](https://library.frankston.vic.gov.au/Whats_On/Today_Monday_16th_March_2020)
+
+### Geelong Regional Libraries
+
+* All branches and Moblie Libraries will close on Wednesday 18 March (at the usual branch closing time) until at least Tuesday 14 April 2020. [More info...](https://www.grlc.vic.gov.au/coronavirus)
 
 ### Golden Dragon Museum
 
