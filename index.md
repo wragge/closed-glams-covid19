@@ -328,6 +328,10 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 16 March 2020 – Museum closed from 17 March until further notice. All scheduled events cancelled. [Via FB...](https://www.facebook.com/HellenicMuseum/photos/a.202451559797364/3672467282795757/?type=3&theater)
 
+### Hobsons Bay Libraries
+
+* 17 March 2020 – All branches closed for 30 days. All public events and community consultations cancelled for the next 60 days (or until further notice). [More info...](https://libraries.hobsonsbay.vic.gov.au/library-news/1099-coronavirus-update)
+
 ### Hume Library Service
 
 * 17 March 2020 - Suspended delivery from 5pm 17 March of all library programs, events and outreach services, including HLS.                               Gladstone Park , Tullamarine and Mobile library service closed. [More info...](https://www.humelibraries.vic.gov.au/Whats_On/Latest_News/Important_Information_-_COVID-19_Update) 
