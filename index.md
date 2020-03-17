@@ -121,6 +121,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 17 March 2020 - Open Cockpits & Engine Run Day POSTPONED. [More info...](http://www.saam.org.au/sorry-our-open-cockpits-engine-run-day-postponed/)
 
+### The Cedars
+
+* 17 March 2020 - Closed until further notice. [More info...](https://www.hansheysen.com.au/)
+
 ## Tasmania
 
 ### Libraries Tasmania
@@ -252,7 +256,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 17 March 2020, 11:07am.
+Last updated 17 March 2020, 11:34am.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
