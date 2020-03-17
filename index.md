@@ -343,6 +343,7 @@ For more information on closures of state-owned cultural institutions in Victori
 ## See also
 
 * [Australian libraries responding to COVID-19](https://www.alia.org.au/australian-libraries-responding-covid-19), ALIA
+* [New Zealand GLAMs and COVID-19](http://www.ndf.org.nz/covid19-and-nz-glams)
 
 ----
 
