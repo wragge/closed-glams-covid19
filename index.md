@@ -121,6 +121,11 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 16 March 2020 – Closed until 31 March. [More info...](https://www.nationaltrust.org.au/the-national-trust-of-south-australias-response-to-covid-19/)
 
+### Barr Smith Library
+
+* 17 March 2020 - Library is open and monitoring the situation. [More here...](https://www.adelaide.edu.au/newsroom/covid-19)
+* 17 March 2020 - The Molly Murn library event for March 26 has been cancessed. [More here...](https://twitter.com/uofalib/status/1239724153835405312)
+
 ### National Railway Museum
 
 * 17 March 2020 - [Update from the National Railway Museum on COVID-19](https://nrm.org.au/whatson/latest-news)
@@ -301,7 +306,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 17 March 2020, 1:08pm.
+Last updated 17 March 2020, 1:38pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
