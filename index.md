@@ -428,12 +428,13 @@ For more information on closures of state-owned cultural institutions in Victori
 ## See also
 
 * [Australian libraries responding to COVID-19](https://www.alia.org.au/australian-libraries-responding-covid-19), ALIA
+* [Museums & Galleries of NSW and Museums & Galleries Queensland COVID-19 response](https://mgnsw.org.au/articles/coronavirus/)
 * [New Zealand GLAMs and COVID-19](http://www.ndf.org.nz/covid19-and-nz-glams), NDF
 * [COVID-19 and the New Zealand LIS sector](https://lianza.org.nz/covid-19-coronavirus-new-zealand-libraries/), LIANZA
 
 ----
 
-Last updated 17 March 2020, 6:15pm.
+Last updated 17 March 2020, 8:17pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
