@@ -370,6 +370,10 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 17 March 2020 - Open to visitors but cancelling Children's and Youth Week programming until further notice and 'Day 9 at Wooreem' Author Talk at Yarram Library. [More info...](https://www.wellington.vic.gov.au/alerts/covid-19-coronavirus)
 
+### Wodonga Libraries
+
+* 16 March 2020 - Select programs cancelled or suspended until further notice. [More info...](https://www.wodonga.vic.gov.au/Whats-On/At-Wodonga-Library)
+
 ### West Gippsland Libraries
 
 * 17 March 2020 - All library branches and mobile libraries closed at COB 17 March 2020 until 14 April 2020. [More info...](https://www.wgrlc.vic.gov.au/service-update/)
@@ -409,7 +413,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 17 March 2020, 6:04pm.
+Last updated 17 March 2020, 6:15pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
