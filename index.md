@@ -207,6 +207,10 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 16 March 2020 – Today's Storytime and Code Club cancelled. [More info...](https://library.frankston.vic.gov.au/Whats_On/Today_Monday_16th_March_2020)
 
+### Golden Dragon Museum
+
+* 17 March 2020 – Museum closed from 17 March to 13 April. Public and education programs cancelled. [More info...](https://www.goldendragonmuseum.org/)
+
 ### Goldfields Libraries
 
 * 16 March 2020 – Library programs, events, and outreach services have been suspended until 14 April. [More info...](https://www.ncgrl.vic.gov.au/)
@@ -284,7 +288,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 17 March 2020, 12:53pm.
+Last updated 17 March 2020, 1:08pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
