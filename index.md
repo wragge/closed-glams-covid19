@@ -143,10 +143,6 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 * 17 March 2020 - COVID-19 Information and Updates, some service restrictions in place. [More info...](https://www.slsa.sa.gov.au/covid-19-information-and-updates)
 * 16 March 2020 – [Statement from the Director of the State Library on COVID-19](https://www.slsa.sa.gov.au/news/announcement/2020/03/statement-from-director-of-state-library-regarding-covid-19)
 
-### State Records of South Australia
-
-* 17 March 2020 - Gepps Cross Research Centre temporarily closed as of Tuesday 17 March. [More info...](https://archives.sa.gov.au/general-information/contact-us/research-centre)
-
 ### South Australian Aviation Museum
 
 * 17 March 2020 - Open Cockpits & Engine Run Day POSTPONED. [More info...](http://www.saam.org.au/sorry-our-open-cockpits-engine-run-day-postponed/)
@@ -241,6 +237,10 @@ For more information on closures of state-owned cultural institutions in Victori
 ### Geelong Regional Libraries
 
 * All branches and Moblie Libraries will close on Wednesday 18 March (at the usual branch closing time) until at least Tuesday 14 April 2020. [More info...](https://www.grlc.vic.gov.au/coronavirus)
+
+### Glenelg Libraries
+
+* 17 March 2020 – Branches are open but public computer access is shut down. Programs, events, meetings and activities are cancelled. [More info...](http://www.glenelglibraries.vic.gov.au/glenelg-libraries-service-update-covid-19)
 
 ### Golden Dragon Museum
 
@@ -376,7 +376,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 17 March 2020, 4:22pm.
+Last updated 17 March 2020, 4:25pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
