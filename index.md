@@ -150,6 +150,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 17 March 2020 - Open Cockpits & Engine Run Day POSTPONED. [More info...](http://www.saam.org.au/sorry-our-open-cockpits-engine-run-day-postponed/)
 
+### South Australian Maritime Museum
+
+* - 18 March 2020 - Open but are suspending all education and public programs until further notice. [More info...](https://maritime.history.sa.gov.au/coronavirus-covid-19-update/)
+
 ### South Australian Museum
 
 * 17 March 2020 - Open but are closely monitoring developments. [More info...](https://www.samuseum.sa.gov.au/visit/health-and-safety)
