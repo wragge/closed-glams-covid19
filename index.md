@@ -9,6 +9,7 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 * [Tasmania](#tasmania)
 * [Victoria](#victoria)
 * [Western Australia](#western-australia)
+* [See also](#see-also)
 
 ## ACT
 
@@ -285,6 +286,10 @@ For more information on closures of state-owned cultural institutions in Victori
 ### Western Australian Museum
 
 * 16 March 2020 – The submarine HMAS Ovens is closed to the public. [More info...](http://museum.wa.gov.au/about/covid-19)
+
+## See also
+
+* [Australian libraries responding to COVID-19](https://www.alia.org.au/australian-libraries-responding-covid-19), ALIA
 
 ----
 
