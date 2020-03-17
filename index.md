@@ -326,6 +326,10 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 17 March 2020 - All branches closed until further notice. [More info...](https://ourlibrary.mornpen.vic.gov.au/Home)
 
+### Murrindini Library Service
+
+* 17 March 2020 - Alexandra, Yea and Kinglake branches remain open but all public programs and events suspended until further notice. [More info...](https://www.murrindindi.vic.gov.au/Our-Community/Coronavirus-Disease-COVID-19#section-2)
+
 ### Museums Victoria
 
 * 16 March 2020 – All public sites (including Melbourne Museum, Scienceworks, Immigration Museum, Royal Exhibition Building and IMAX) are closed. [More info...](https://museumsvictoria.com.au/about-us/coronavirus-covid-19-update/)
@@ -357,6 +361,10 @@ For more information on closures of state-owned cultural institutions in Victori
 ### State Library of Victoria
 
 * 16 March 2020 – All public spaces are closed. [More info...](https://www.slv.vic.gov.au/closure)
+
+### Wellington Library Service
+
+* 17 March 2020 - Open to visitors but cancelling Children's and Youth Week programming until further notice and 'Day 9 at Wooreem' Author Talk at Yarram Library. [More info...](https://www.wellington.vic.gov.au/alerts/covid-19-coronavirus)
 
 ### Wyndham City Libraries
 
