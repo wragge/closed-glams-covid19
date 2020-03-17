@@ -371,6 +371,10 @@ For more information on closures of state-owned cultural institutions in Victori
 * 17 March 2020 – Libraries closed from Thursday 19 March. [More info...](https://www.wyndham.vic.gov.au/covid19)
 * 16 March 2020 – Public programs and events cancelled. [More info...](https://www.wyndham.vic.gov.au/news/event-cancellations-advice)
 
+### Yarra Libaries
+
+* 17 March 2020 - All libraries closed from COB 17 March 2020 until further notice. [More info...](https://library.yarracity.vic.gov.au/)
+
 ### Yarra Plenty Regional Library
 
 * 16 March 2020 – Library branches remain open, but public programs, events, and outreach services have been suspended for 30 days. [More info...](https://www.yprl.vic.gov.au/blogs/post/yprl-has-cancelled-all-programs-events-and-outreach-services-for-30-days/)
@@ -397,7 +401,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 17 March 2020, 5:42pm.
+Last updated 17 March 2020, 5:45pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
