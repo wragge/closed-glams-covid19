@@ -318,6 +318,10 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 17 March 2020 - Suspended all programs and events and outreach. [More info...](https://www.mitchellshire.vic.gov.au/news/corona-service-status)
 
+### Monash Public Library Service
+
+* 17 March 2020 – Branches are open, but program has been modified and some events cancelled. [More info...](https://www.monlib.vic.gov.au/About-Us/News-Listing/Update-to-community-regarding-library-services)
+
 ### Moonee Libraries
 
 * 17 March 2020 - Temporary closure and program cancellations. [More info...](https://mvcc.vic.gov.au/play/my-experience/libraries/)
