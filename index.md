@@ -338,6 +338,10 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 17 March 2020 - Closed. [More info...](https://www.melbourne.vic.gov.au/community/libraries/Pages/libraries.aspx)
 
+### Melbourne Tram Museum
+
+* 17 March 2020 – Closed until further notice. [More info...](http://hawthorntramdepot.org.au/news/20200317.htm)
+
 ### Melton Library Service
 
 * 17 March 2020 - Suspended all services. [More info...](https://www.melton.vic.gov.au/Home/Featured-Content/General-Featured-pages/Coronavirus-covid-19-update)
@@ -451,7 +455,7 @@ For more information on closures of state-owned cultural institutions in Victori
 ----
 
 
-Last updated 18 March 2020, 9:38am.
+Last updated 18 March 2020, 9:45am.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
