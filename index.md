@@ -86,6 +86,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 ## Queensland
 
+### Australian Army Flying Museum
+
+* Closed until further notice. [More info...](http://www.armyflyingmuseum.com.au/#intro)
+
 ### HOTA
 
 * 16 March 2020 – Closed until the end of March. [More info...](https://hota.com.au/stories/hota-to-close-until-the-end-of-march/)
@@ -276,7 +280,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 17 March 2020, 12:02pm.
+Last updated 17 March 2020, 12:24pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
