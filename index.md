@@ -179,6 +179,10 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 16 March 2020 – Closed until further notice. [More info...](https://www.ballarat.vic.gov.au/city-ballarat-facilities-closing-5pm)
 
+### Bayside City Libraries
+
+* 17 March 2020 – All programs and events cancelled. [More info...](https://www.bayside.vic.gov.au/whats-bayside-libraries)
+
 ### Casey Cardinia Libraries
 
 * 16 March 2020 – Branches remain open, but library programs, events and outreach services have been suspended. [More info...](https://www.cclc.vic.gov.au/change-in-library-services-due-to-coronavirus-covid-19-pandemic/)
@@ -280,7 +284,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 17 March 2020, 12:45pm.
+Last updated 17 March 2020, 12:53pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
