@@ -88,7 +88,7 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 ### Australian Army Flying Museum
 
-* Closed until further notice. [More info...](http://www.armyflyingmuseum.com.au/#intro)
+* 17 March 2020 - Closed until further notice. [More info...](http://www.armyflyingmuseum.com.au/#intro)
 
 ### HOTA
 
@@ -280,7 +280,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 17 March 2020, 12:24pm.
+Last updated 17 March 2020, 12:36pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
