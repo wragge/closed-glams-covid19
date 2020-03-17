@@ -428,6 +428,10 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 17 March 2020 - All Library and Information Service buildings closed from 18 March 2020 to 13 April 2020. [More info...](https://www.stonnington.vic.gov.au/library/News)
 
+### Wangaratta Library
+
+* 17 March 2020 – Library remains open, but all programs and events have been cancelled. [More info...](https://www.wangaratta.vic.gov.au/emergency/covid-19-council-updates)
+
 ### Wellington Library Service
 
 * 17 March 2020 - Open to visitors but cancelling Children's and Youth Week programming until further notice and 'Day 9 at Wooreem' Author Talk at Yarram Library. [More info...](https://www.wellington.vic.gov.au/alerts/covid-19-coronavirus)
