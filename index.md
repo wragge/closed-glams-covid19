@@ -309,6 +309,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ### Goldfields Libraries
 
+* 17 March 2020 – All library branches and agencies are closing until April 14, or until further notice. This includes the suspension of all programs and events and Home Library Service deliveries. [More info...](https://www.ncgrl.vic.gov.au/covid19)
 * 16 March 2020 – Library programs, events, and outreach services have been suspended until 14 April. [More info...](https://www.ncgrl.vic.gov.au/)
 
 ### Goulburn Valley Libraries
@@ -472,7 +473,7 @@ For more information on closures of state-owned cultural institutions in Victori
 ----
 
 
-Last updated 18 March 2020, 9:56am.
+Last updated 18 March 2020, 10:52am.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
