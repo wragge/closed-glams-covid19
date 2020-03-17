@@ -17,6 +17,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 17 March 2020 – Stanner Reading Room closed. No public access, appointments, visits or tours available until 30 June 2020. [More info...](https://aiatsis.gov.au/news-and-events/news/stanner-reading-room-closed)
 
+### Museum of Australian Democracy
+
+* 17 March 2020 – Museum is open, but PlayUP and is closed and all public programs including tours, Backspace, and Family Action Packs have been suspended. [More info...](https://www.moadoph.gov.au/covid-19-visitor-information/)
+
 ### National Archives of Australia
 
 * 17 March 2020 – National and state offices remain open, but public events and talks, education programs, school holiday programs, and tours have been suspended. [More info...](https://www.naa.gov.au/visitor-update-coronavirus)
