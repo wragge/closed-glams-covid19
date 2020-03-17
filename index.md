@@ -227,6 +227,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ### Frankston City Libraries
 
+* 17 March 2020 – All library events and programming suspended until 13 April 2020. [More info...](https://library.frankston.vic.gov.au/Home/Announcements/Events_Suspended)
 * 16 March 2020 – Today's Storytime and Code Club cancelled. [More info...](https://library.frankston.vic.gov.au/Whats_On/Today_Monday_16th_March_2020)
 
 ### Golden Dragon Museum
