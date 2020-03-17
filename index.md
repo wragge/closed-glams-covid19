@@ -108,9 +108,17 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 16 March 2020 – Closed until 31 March. [More info...](https://www.nationaltrust.org.au/the-national-trust-of-south-australias-response-to-covid-19/)
 
+### National Railway Museum
+
+* 17 March 2020 - [Update from the National Railway Museum on COVID-19](https://nrm.org.au/whatson/latest-news)
+
 ### State Library of South Australia
 
 * 16 March 2020 – [Statement from the Director of the State Library on COVID-19](https://www.slsa.sa.gov.au/news/announcement/2020/03/statement-from-director-of-state-library-regarding-covid-19)
+
+### South Australian Aviation Museum
+
+* 17 March 2020 - Open Cockpits & Engine Run Day POSTPONED. [More info...](http://www.saam.org.au/sorry-our-open-cockpits-engine-run-day-postponed/)
 
 ## Tasmania
 
@@ -243,7 +251,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 17 March 2020, 10:40am.
+Last updated 17 March 2020, 11:07am.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
