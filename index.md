@@ -250,6 +250,10 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * All branches and Moblie Libraries will close on Wednesday 18 March (at the usual branch closing time) until at least Tuesday 14 April 2020. [More info...](https://www.grlc.vic.gov.au/coronavirus)
 
+### Glen Eira Libraries
+
+* 17 March 2020 – Branches are open, but all programming including StoryTime and BabyTime sessions is cancelled. [More info...](https://library.gleneira.vic.gov.au/)
+
 ### Glenelg Libraries
 
 * 17 March 2020 – Branches are open but public computer access is shut down. Programs, events, meetings and activities are cancelled. [More info...](http://www.glenelglibraries.vic.gov.au/glenelg-libraries-service-update-covid-19)
