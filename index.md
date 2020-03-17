@@ -98,6 +98,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 17 March 2020 - Museum is open, but all public programs, events and tours have been cancelled until further notice. [More info...](https://www.qagoma.qld.gov.au/visit/plan-your-visit)
 
+### RAAF Amberley Aviation Heritage Centre
+
+* 17 March 2020 - Closed until further notice. [More info...](https://www.raafamberleyheritage.gov.au/?fbclid=IwAR3vFYys8MaJBwqYnrrUi6BOJRcYkj0Jc19Q-LBUsIOGzL87ndufGTSY86g)
+
 ## South Australia
 
 ### Art Gallery of South Australia
@@ -256,7 +260,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 17 March 2020, 11:34am.
+Last updated 17 March 2020, 11:42am.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
