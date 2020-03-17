@@ -221,6 +221,10 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 17 March 2020 – All programs and events cancelled. [More info...](https://www.bayside.vic.gov.au/whats-bayside-libraries)
 
+### Bendigo Regional Archives Centre
+
+* 17 March 2020 – Closed from 18 March until further notice. [Via FB...](https://www.facebook.com/bendigoarchives/posts/845922295921849)
+
 ### Brimbank City Libraries
 
 * 17 March 2020 – Public libraries at Sunshine, St Albans, Keilor, Deer Park and Watergardens are closed. [More info...](https://www.brimbank.vic.gov.au/emergency-information/novel-coronavirus-covid-19)
