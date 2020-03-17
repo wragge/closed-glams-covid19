@@ -245,6 +245,10 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 17 March 2020 – Brunswick Library, Campbell Turnbull Library, Coburg Library, Fawkner Library, Glenroy Library closed from 5pm on 17 March to (at least) 1 April. [More info...](https://www.moreland.vic.gov.au/about-us/news-and-publications/news/updates-on-our-services-during-covid-19/)
 
+### Mornington Peninsula Library Services
+
+* 17 March 2020 - All branches closed until further notice. [More info...](https://ourlibrary.mornpen.vic.gov.au/Home)
+
 ### Museums Victoria
 
 * 16 March 2020 – All public sites (including Melbourne Museum, Scienceworks, Immigration Museum, Royal Exhibition Building and IMAX) are closed. [More info...](https://museumsvictoria.com.au/about-us/coronavirus-covid-19-update/)
@@ -306,7 +310,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 17 March 2020, 1:38pm.
+Last updated 17 March 2020, 2:33pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
