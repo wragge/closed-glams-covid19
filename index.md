@@ -170,6 +170,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 17 March 2020 - Open but are closely monitoring developments. [More info...](https://www.samuseum.sa.gov.au/visit/health-and-safety)
 
+### South Australia's History Festival
+
+* 18 March 2020 - The History Fesitval Program Launch suspended. With regard to South Australia’s History Festival (May 2020) we are evaluating the best course of action and will release an update as soon as possible. [More info...](https://historyfestival.history.sa.gov.au/news/coronavirus-covid-19-update) 
+
 ### State Library of South Australia
 
 * 18 March 2020 - Face-to-face services and events are suspended. [More info...](https://twitter.com/SLSA/status/1239835125178867715)
