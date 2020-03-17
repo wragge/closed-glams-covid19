@@ -119,6 +119,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 17 March 2020 - Closed until further notice. [More info...](https://www.raafamberleyheritage.gov.au/?fbclid=IwAR3vFYys8MaJBwqYnrrUi6BOJRcYkj0Jc19Q-LBUsIOGzL87ndufGTSY86g)
 
+### State Library of Queensland
+
+* 17 March 2020 – Library remains open, but all public events and programs have been cancelled until further notice. [More info...](https://www.slq.qld.gov.au/alerts)
+
 ## South Australia
 
 ### Art Gallery of South Australia
