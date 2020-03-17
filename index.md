@@ -142,6 +142,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 * 17 March 2020 - Library is open and monitoring the situation. [More here...](https://www.adelaide.edu.au/newsroom/covid-19)
 * 17 March 2020 - The Molly Murn library event for March 26 has been cancessed. [More here...](https://twitter.com/uofalib/status/1239724153835405312)
 
+### History Trust of South Australia
+
+* 18 March 2020 - Suspending all education and public programs until further notice at the History Trust of SA and its four museums. [More info...](https://history.sa.gov.au/coronavirus-covid-19-update/)
+
 ### Migration Museum
 
 * 18 March 2020 - Open but are suspending all education and public programs until further notice. [More info...](https://migration.history.sa.gov.au/coronavirus-covid-19-update/) 
@@ -468,7 +472,7 @@ For more information on closures of state-owned cultural institutions in Victori
 ----
 
 
-Last updated 18 March 2020, 9:45am.
+Last updated 18 March 2020, 9:56am.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
