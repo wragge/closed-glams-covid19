@@ -173,6 +173,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 17 March 2020 - Site is open but providing updates to visitors and have advised that they are not currently taking cash payments. [More info...](https://portarthur.org.au/novel-coronavirus-covid-19/)
 
+### Queen Victoria Museum and Art Gallery
+
+* 17 March 2020 – Closed until further notice. [More info...](https://www.launceston.tas.gov.au/News-Media/Temporary-closures-for-QVMAG-and-aquatic-centre-facilities)
+
 ### Tasmanian Museum & Art Gallery (TMAG)
 
 * 16 March 2020 – Museum is open, but public programs, tours, and school visits have been cancelled until 16 April. [More info...](https://www.tmag.tas.gov.au/whats_on/newsselect/2020articles/information_regarding_covid-19)
