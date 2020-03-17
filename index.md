@@ -146,6 +146,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 18 March 2020 - Open but are suspending all education and public programs until further notice. [More info...](https://migration.history.sa.gov.au/coronavirus-covid-19-update/) 
 
+### National Motor Museum
+
+* 18 March 2020 - Open but are suspending all education and public programs until further notice. [More info...](https://motor.history.sa.gov.au/coronavirus-covid-19-update/)
+
 ### National Railway Museum
 
 * 17 March 2020 - [Update from the National Railway Museum on COVID-19](https://nrm.org.au/whatson/latest-news)
