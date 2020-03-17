@@ -141,7 +141,7 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 ### Libraries Tasmania
 
-16 March 2020 – [Advice to visitors](https://libraries.tas.gov.au/Pages/coronavirus.aspx)
+16 March 2020 – Libraries remain open, but programs, courses, and events have been cancelled. [More info...](https://libraries.tas.gov.au/Pages/coronavirus.aspx)
 
 ### MONA
 
