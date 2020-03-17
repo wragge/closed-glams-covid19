@@ -193,6 +193,10 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 17 March 2020 – All programs and events cancelled. [More info...](https://www.bayside.vic.gov.au/whats-bayside-libraries)
 
+### Brimbank City Libraries
+
+* 17 March 2020 – Public libraries at Sunshine, St Albans, Keilor, Deer Park and Watergardens are closed. [More info...](https://www.brimbank.vic.gov.au/emergency-information/novel-coronavirus-covid-19)
+
 ### Buloke Shire Council Libraries
 
 * 17 March 2020 – Library Services have been suspended. Tyrrell College and Birchip P12 will continue to operate School library services only. [More info...](https://www.buloke.vic.gov.au/coronavirus-covid-19-health-alert)
