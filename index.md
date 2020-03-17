@@ -262,6 +262,14 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ## Western Australia
 
+### Art Gallery Western Australia
+
+* 17 March 2020 - Remains open. [More info...](https://artgallery.wa.gov.au/covid-19)
+
+### State Library of Western Australia
+
+* 17 March 2020 - Remain open. [More info...](https://www.slwa.wa.gov.au/news/your-source-truth-covid-19)
+
 ### Western Australian Museum
 
 * 16 March 2020 – The submarine HMAS Ovens is closed to the public. [More info...](http://museum.wa.gov.au/about/covid-19)
