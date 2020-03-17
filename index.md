@@ -143,6 +143,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 * 17 March 2020 - COVID-19 Information and Updates, some service restrictions in place. [More info...](https://www.slsa.sa.gov.au/covid-19-information-and-updates)
 * 16 March 2020 – [Statement from the Director of the State Library on COVID-19](https://www.slsa.sa.gov.au/news/announcement/2020/03/statement-from-director-of-state-library-regarding-covid-19)
 
+### State Records of South Australia
+
+* 17 March 2020 - Gepps Cross Research Centre temporarily closed as of Tuesday 17 March. [More info...](https://archives.sa.gov.au/general-information/contact-us/research-centre)
+
 ### South Australian Aviation Museum
 
 * 17 March 2020 - Open Cockpits & Engine Run Day POSTPONED. [More info...](http://www.saam.org.au/sorry-our-open-cockpits-engine-run-day-postponed/)
@@ -372,7 +376,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 17 March 2020, 2:54pm.
+Last updated 17 March 2020, 4:22pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
