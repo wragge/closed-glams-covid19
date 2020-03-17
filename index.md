@@ -134,6 +134,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 17 March 2020 - [Update from the National Railway Museum on COVID-19](https://nrm.org.au/whatson/latest-news)
 
+### SAMSTAG Museum
+
+* 17 March 2020 - Remains open but temporarily suspending all tours and events until advised otherwise. [More info...](https://unisa.edu.au/Business-community/samstag-museum/events/2020/covid19/)
+
 ### State Library of South Australia
 
 * 17 March 2020 - COVID-19 Information and Updates, some service restrictions in place. [More info...](https://www.slsa.sa.gov.au/covid-19-information-and-updates)
@@ -208,10 +212,6 @@ For more information on closures of state-owned cultural institutions in Victori
 ### Chinese Museum
 
 * 17 March 2020 – Closed from 4pm on 17 March. Events and education services are cancelled or postponed. [More info...](https://chinesemuseum.com.au/)
-
-### City of Darebin Libraries
-
-* 17 March 2020 – Branches at Northcote, Preston, Reservoir and Fairfield have closed until further notice. [More info...](http://www.darebin.vic.gov.au/Your-Say/News/Latest-News#Coronavirus-COVID-19-update)
 
 ### City of Melbourne Public Libraries
 
@@ -363,7 +363,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 17 March 2020, 4:15pm.
+Last updated 17 March 2020, 2:54pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
