@@ -184,6 +184,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 17 March 2020 - Closed until further notice. [More info...](https://www.hansheysen.com.au/)
 
+### The Centre of Democracy
+
+* 18 March 2020 - Open, but are suspending all staff education and public programs until further notice. [More info...](http://centreofdemocracy.sa.gov.au/coronavirus-covid-19-update/)
+
 ## Tasmania
 
 ### Libraries Tasmania
