@@ -63,6 +63,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 16 March 2020 – Closed until further notice. [More info...](https://www.fighterworld.com.au/fighter-world-closed)
 
+### NSW State Archives & Records
+
+* 18 March 2020 – The Western Sydney Records Centre reading room currently remains open to the public. [More info...](https://www.records.nsw.gov.au/archives/magazine/update-covid-19)
+
 ### Powerhouse Museum (MAAS)
 
 * 16 March 2020 – Public and exhibition spaces are open, but public and education programs have been cancelled. [More info...](https://maas.museum/coronavirus-information/)
@@ -445,6 +449,7 @@ For more information on closures of state-owned cultural institutions in Victori
 * [COVID-19 and the New Zealand LIS sector](https://lianza.org.nz/covid-19-coronavirus-new-zealand-libraries/), LIANZA
 
 ----
+
 
 Last updated 18 March 2020, 9:38am.
 
