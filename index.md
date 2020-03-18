@@ -85,6 +85,7 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 ### Temora Aviation Museum
 
+* 18 March 2020 - ANZAC Day Showcase cancelled. Decisions on future events have yet to be made. [More info...](https://twitter.com/TemoraAviation/status/1240063478557052928)
 * 16 March 2020 – The March 21 Showcase has been cancelled. [More info...](https://aviationmuseum.com.au/4625-2/)
 
 ### Woollahra Municipal Council
