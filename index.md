@@ -368,6 +368,10 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 17 March 2020 - Suspended all services. [More info...](https://www.melton.vic.gov.au/Home/Featured-Content/General-Featured-pages/Coronavirus-covid-19-update)
 
+### Mildura Library Service
+
+* 17 March 2020 – Library remains open, but programs and events have been suspended. [More info...](https://mrcc.swft.ent.sirsidynix.net.au/client/en_AU/mrcc/?rm=LIBRARY+SERVIC0%7C%7C%7C1%7C%7C%7C0%7C%7C%7Ctrue)
+
 ### Mitchell Shire Council Libraries
 
 * 17 March 2020 - Suspended all programs and events and outreach. [More info...](https://www.mitchellshire.vic.gov.au/news/corona-service-status)
