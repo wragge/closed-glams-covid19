@@ -124,6 +124,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 17 March 2020 - Closed until further notice. [More info...](http://www.armyflyingmuseum.com.au/#intro)
 
+### Bundaberg Regional Libraries
+
+* 18 March 2020 - All programs and events at all library branches are cancelled until the end of May. [More info...](https://www.artsbundaberg.com.au/libraries/events)
+
 ### HOTA
 
 * 16 March 2020 – Closed until the end of March. [More info...](https://hota.com.au/stories/hota-to-close-until-the-end-of-march/)
@@ -564,7 +568,7 @@ For more information on closures of state-owned cultural institutions in Victori
 ----
 
 
-Last updated 18 March 2020, 3:57pm.
+Last updated 18 March 2020, 5:53pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
