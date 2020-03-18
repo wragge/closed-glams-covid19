@@ -601,7 +601,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 18 March 2020, 5:57pm.
+Last updated 18 March 2020, 9:32pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
