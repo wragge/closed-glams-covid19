@@ -305,6 +305,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ### Casey Cardinia Libraries
 
+* 18 March 2020 – All libraries closed from 19 March until further notice. [More info...](https://www.cclc.vic.gov.au/change-in-library-services-due-to-coronavirus-covid-19-pandemic/)
 * 16 March 2020 – Branches remain open, but library programs, events and outreach services have been suspended. [More info...](https://www.cclc.vic.gov.au/change-in-library-services-due-to-coronavirus-covid-19-pandemic/)
 
 ### Chinese Museum
