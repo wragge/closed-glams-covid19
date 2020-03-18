@@ -128,6 +128,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 18 March 2020 - All Cairns Libraries branches will be enforcing a 100 person visitor cap. [More info...](https://www.cairns.qld.gov.au/council/news-publications/media-releases/releases/coronavirus-advice-no.-2)
 
+### Bundaberg Regional Libraries
+
+* 18 March 2020 - All programs and events at all library branches are cancelled until the end of May. [More info...](https://www.artsbundaberg.com.au/libraries/events)
+
 ### HOTA
 
 * 16 March 2020 – Closed until the end of March. [More info...](https://hota.com.au/stories/hota-to-close-until-the-end-of-march/)
@@ -145,6 +149,8 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 * 17 March 2020 - Museum is open, but all public programs, events and tours have been cancelled until further notice. [More info...](https://www.qagoma.qld.gov.au/visit/plan-your-visit)
 
 ### Queensland Museum
+
+* 18 March 2020 - All public events and programs cancelled at all Queensland Museum Network locations until 30 April 2020. [More info...](https://network.qm.qld.gov.au/About+Us/Health+and+safety+update)
 
 * 17 March 2020 - World Science Festival Brisbane is cancelled, museum remains open to the public. [More info...](https://www.worldsciencefestival.com.au/)
 
@@ -566,7 +572,6 @@ For more information on closures of state-owned cultural institutions in Victori
 * [COVID-19 and the New Zealand LIS sector](https://lianza.org.nz/covid-19-coronavirus-new-zealand-libraries/), LIANZA
 
 ----
-
 
 Last updated 18 March 2020, 5:57pm.
 
