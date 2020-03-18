@@ -128,6 +128,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 16 March 2020 – Closed until the end of March. [More info...](https://hota.com.au/stories/hota-to-close-until-the-end-of-march/)
 
+### Institute of Modern Art
+
+* 17 March 2020 - Closed until further notice. [More info...](https://ima.org.au/news/14816/)
+
 ### Museum of Brisbane
 
 * 16 March 2020 – Museum is open, but public programming and tours have been suspended for at least two weeks.
@@ -542,7 +546,7 @@ For more information on closures of state-owned cultural institutions in Victori
 ----
 
 
-Last updated 18 March 2020, 11:56am.
+Last updated 18 March 2020, 12:52pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
