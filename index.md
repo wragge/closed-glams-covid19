@@ -68,6 +68,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 15 March 2020 – Museum is open, but vessels, 3D cinema, and Kids on Deck are closed until further notice. [More info...](https://www.sea.museum/visit/availability)
 
+### Blue Mountains Library
+
+* 18 March 2020 – Blackheath Library, Wentworth Falls Library, Lawson Library and Blaxland Library and Book Express services closed from 19 March until further notice. Springwood Library and Katoomba Library open. All events and programs cancelled. [Via FB...](https://www.facebook.com/256657214461069/posts/2596970330429734/?d=n)
+
 ### Chau Chak Wing Museum, University of Sydney
 
 * 16 March 2020 – All events cancelled.
