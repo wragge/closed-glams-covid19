@@ -148,6 +148,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 17 March 2020 - Closed until further notice. [More info...](https://www.raafamberleyheritage.gov.au/?fbclid=IwAR3vFYys8MaJBwqYnrrUi6BOJRcYkj0Jc19Q-LBUsIOGzL87ndufGTSY86g)
 
+### Southern Downs Regional Libraries
+
+* 18 March 2020 – All branches closed from COB on 19 March. [Via FB...](https://www.facebook.com/permalink.php?story_fbid=3730115947029853&id=475451612496319)
+
 ### State Library of Queensland
 
 * 17 March 2020 – Library remains open, but all public events and programs have been cancelled until further notice. [More info...](https://www.slq.qld.gov.au/alerts)
