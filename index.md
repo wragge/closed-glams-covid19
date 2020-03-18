@@ -243,6 +243,10 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 16 March 2020 – Closed to the public. [More info...](https://www.artscentremelbourne.com.au/temporary-closure)
 
+### Australian Army Tank Museum
+
+* 17 March 2020 – Closed from 18 March for at least 30 days. Open day on 21 March is cancelled. [More info...](http://www.australianarmytankmuseum.com.au/)
+
 ### Australian Sports Museum
 
 * 16 March – The museum, library, and MCG tours are closed until further notice. [More info...](https://www.australiansportsmuseum.org.au/)
