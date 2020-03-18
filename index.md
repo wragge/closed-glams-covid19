@@ -95,6 +95,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 16 March 2020 – Public and exhibition spaces are open, but public and education programs have been cancelled. [More info...](https://maas.museum/coronavirus-information/)
 
+### Royal Australian Historical Society
+
+* 18 March 2020 – All public events postponed for the next 4-6 weeks. [More info...](https://mailchi.mp/b72a9c8297d4/rahs-special-newsletter-covid-19?e=bae48b8362)
+
 ### State Library of NSW
 
 * 16 March 2020 – The Library is open, but public events have been cancelled. [More info...](https://www.sl.nsw.gov.au/news/important-information-covid-19)
