@@ -47,6 +47,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 ## NSW
 
+### 4A Centre for Contemporary Asian Art
+
+* 18 March 2020 – Office and galleries closed. All planned public programming and performances suspended. [More info...](http://www.4a.com.au/announcement-temporary-gallery-closure-program-adjustment/)
+
 ### Art Gallery of NSW
 
 * 16 March 2020 – Gallery is open, but public programming has been cancelled. [More info...](https://www.artgallery.nsw.gov.au/information-visitors-covid-19/)
