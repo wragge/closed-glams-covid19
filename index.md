@@ -124,6 +124,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 17 March 2020 - Closed until further notice. [More info...](http://www.armyflyingmuseum.com.au/#intro)
 
+### Cairns Libraries
+
+* 18 March 2020 - All Cairns Libraries branches will be enforcing a 100 person visitor cap. [More info...](https://www.cairns.qld.gov.au/council/news-publications/media-releases/releases/coronavirus-advice-no.-2)
+
 ### Bundaberg Regional Libraries
 
 * 18 March 2020 - All programs and events at all library branches are cancelled until the end of May. [More info...](https://www.artsbundaberg.com.au/libraries/events)
@@ -569,7 +573,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 18 March 2020, 5:53pm.
+Last updated 18 March 2020, 5:57pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
