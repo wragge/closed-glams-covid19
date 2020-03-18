@@ -343,6 +343,10 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 16 March 2020 – Public libraries closed including Ascot Vale, Flemington, Niddrie, Sam Merrifield, Avondale Heights. [More info...](https://mvcc.vic.gov.au/covid-19/)
 
+### Dalton McCaughey Library
+
+* 18 March 2020 – Closed from 23 March. [More info...](https://www.dml.vic.edu.au/)
+
 ### Eureka Centre, Ballarat
 
 * 16 March 2020 – Closed until further notice. [More info...](https://www.ballarat.vic.gov.au/city-ballarat-facilities-closing-5pm)
