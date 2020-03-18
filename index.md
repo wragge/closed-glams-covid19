@@ -259,6 +259,7 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 ### Tasmanian Museum & Art Gallery (TMAG)
 
+* 18 March 2020 – Closed from 19 March. [More info...](https://www.tmag.tas.gov.au/whats_on/newsselect/2020articles/closure_due_to_covid-19)
 * 16 March 2020 – Museum is open, but public programs, tours, and school visits have been cancelled until 16 April. [More info...](https://www.tmag.tas.gov.au/whats_on/newsselect/2020articles/information_regarding_covid-19)
 
 ## Victoria
