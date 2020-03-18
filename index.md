@@ -567,7 +567,8 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ### Art Gallery Western Australia
 
-* 17 March 2020 - Remains open. [More info...](https://artgallery.wa.gov.au/covid-19)
+* 18 March 2020 – Events of more than 100 people are cancelled. Programs delivered by independent volunteer groups are suspended until further notice. [More info...](https://artgallery.wa.gov.au/covid-19)
+* 17 March 2020 – Remains open. [More info...](https://artgallery.wa.gov.au/covid-19)
 
 ### Claremont Community Hub and Library
 
