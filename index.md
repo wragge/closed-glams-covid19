@@ -71,6 +71,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 16 March 2020 – Closed until further notice. [More info...](https://www.fighterworld.com.au/fighter-world-closed)
 
+### Manly Art Gallery & Museum
+
+* 18 March 2020 – Closed until further notice. [More info...](https://www.northernbeaches.nsw.gov.au/things-to-do/arts-and-culture/manly-art-gallery-museum)
+
 ### National Trust NSW
 
 * 17 March 2020 – Properties closed until 30 June. Events cancelled or postponed until 30 June. [More info...](https://www.nationaltrust.org.au/news/national-trust-nsw-events-and-property-closures-covid-19/)
