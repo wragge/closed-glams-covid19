@@ -537,6 +537,10 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 17 March 2020 - Remains open. [More info...](https://artgallery.wa.gov.au/covid-19)
 
+### Claremont Community Hub and Library
+
+* 18 March 2020 – Claremont Community Hub & Library building will be closed from 23 March. All programs and activities postponed from 23 March. [More info...](https://www.claremont.wa.gov.au/Community-and-Living/Claremont-Community-Hub-and-Library)
+
 ### Fremantle Library
 
 * 18 March 2020 – Library is open, but the Toy Library is closed, and programs have been cancelled. [More info...](https://www.fremantle.wa.gov.au/covid-19-updates)
