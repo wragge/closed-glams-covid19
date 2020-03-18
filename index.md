@@ -453,6 +453,10 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 17 March 2020 - All Library and Information Service buildings closed from 18 March 2020 to 13 April 2020. [More info...](https://www.stonnington.vic.gov.au/library/News)
 
+### Wangaratta Art Gallery
+
+* 17 March 2020 – Gallery remains open, but all public programs and events are suspended until 17 April. [More info...](https://wangarattaartgallery.com.au/news/)
+
 ### Wangaratta Library
 
 * 17 March 2020 – Library remains open, but all programs and events have been cancelled. [More info...](https://www.wangaratta.vic.gov.au/emergency/covid-19-council-updates)
