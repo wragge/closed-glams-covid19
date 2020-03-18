@@ -279,6 +279,10 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 17 March 2020 – Library Services have been suspended. Tyrrell College and Birchip P12 will continue to operate School library services only. [More info...](https://www.buloke.vic.gov.au/coronavirus-covid-19-health-alert)
 
+### Burke Museum & Beechworth Historic Precinct
+
+* 17 March 2020 –  Upcoming events and programs cancelled or postponed until May. [More info...](https://www.indigoshire.vic.gov.au/Emergencies/Coronavirus-COVID-19)
+
 ### Casey Cardinia Libraries
 
 * 16 March 2020 – Branches remain open, but library programs, events and outreach services have been suspended. [More info...](https://www.cclc.vic.gov.au/change-in-library-services-due-to-coronavirus-covid-19-pandemic/)
@@ -522,7 +526,7 @@ For more information on closures of state-owned cultural institutions in Victori
 ----
 
 
-Last updated 18 March 2020, 11:11am.
+Last updated 18 March 2020, 11:56am.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
