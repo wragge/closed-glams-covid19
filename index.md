@@ -353,6 +353,10 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 17 March 2020 - Suspended delivery from 5pm 17 March of all library programs, events and outreach services, including HLS.                               Gladstone Park , Tullamarine and Mobile library service closed. [More info...](https://www.humelibraries.vic.gov.au/Whats_On/Latest_News/Important_Information_-_COVID-19_Update) 
 
+### Indigo Shire Libraries
+
+* 17 March 2020 – Branches open, but all events and programs suspended. [More info...](https://www.indigoshire.vic.gov.au/Emergencies/Coronavirus-COVID-19)
+
 ### Islamic Museum of Australia
 
 * 16 March 2020 – Museum closed from 17 March, and all events postponed. [Via FB...](https://www.facebook.com/ISLAMICMUSEUM/photos/a.260206944013130/3115781795122283/?type=3&theater)
