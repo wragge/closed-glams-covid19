@@ -287,6 +287,10 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 17 March 2020 – Closed from 18 March until further notice. [Via FB...](https://www.facebook.com/bendigoarchives/posts/845922295921849)
 
+### Boroondara Library Service
+
+* 17 March 2020 – All library facilities closed until at least 15 April. Regular programs have been suspended, including community activities, workshops and children’s storytimes. [More info...](https://www.boroondara.vic.gov.au/libraries/library-news/boroondara-library-service-facilities-temporarily-closed) 
+
 ### Brimbank City Libraries
 
 * 17 March 2020 – Public libraries at Sunshine, St Albans, Keilor, Deer Park and Watergardens are closed. [More info...](https://www.brimbank.vic.gov.au/emergency-information/novel-coronavirus-covid-19)
@@ -547,7 +551,7 @@ For more information on closures of state-owned cultural institutions in Victori
 ----
 
 
-Last updated 18 March 2020, 12:52pm.
+Last updated 18 March 2020, 3:57pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
