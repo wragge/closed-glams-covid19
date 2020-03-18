@@ -444,6 +444,10 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 17 March 2020 - Open to visitors but cancelling Children's and Youth Week programming until further notice and 'Day 9 at Wooreem' Author Talk at Yarram Library. [More info...](https://www.wellington.vic.gov.au/alerts/covid-19-coronavirus)
 
+### Whitehorse Manningham Libraries
+
+* 17 March 2020 – Branches remain open, but all programs and events have been suspended. [More info...](http://www.wml.vic.gov.au/coronavirus)
+
 ### Wodonga Libraries
 
 * 16 March 2020 - Select programs cancelled or suspended until further notice. [More info...](https://www.wodonga.vic.gov.au/Whats-On/At-Wodonga-Library)
