@@ -412,6 +412,10 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 16 March 2020 – Closed to the public until further notice. [More info...](https://www.oldtreasurybuilding.org.au/)
 
+### Port Phillip Library Service
+
+* 17 March 2020 – All scheduled programs and planned group activities are suspended for the next 30 days. [More info...](https://library.portphillip.vic.gov.au/Home)
+
 ### RAAF Museum, Point Cook
 
 * 15 March 2020 – Closed to the public until further notice. [More info...](https://www.facebook.com/RAAF.Museum/posts/2787178641395706)
