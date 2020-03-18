@@ -75,6 +75,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 17 March 2020 – Properties closed until 30 June. Events cancelled or postponed until 30 June. [More info...](https://www.nationaltrust.org.au/news/national-trust-nsw-events-and-property-closures-covid-19/)
 
+### Newcastle Libraries
+
+* 16 March 2020 – Branches remain open, but all programs and events including talks, exhibition tours, children’s and onsite learning programs have been suspended. [More info...](https://www.newcastle.nsw.gov.au/Library/Connect/Visit/COVID-19-Updates)
+
 ### NSW State Archives & Records
 
 * 18 March 2020 – The Western Sydney Records Centre reading room currently remains open to the public. [More info...](https://www.records.nsw.gov.au/archives/magazine/update-covid-19)
