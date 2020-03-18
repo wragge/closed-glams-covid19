@@ -71,6 +71,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 16 March 2020 – All events cancelled.
 
+### City of Sydney Libraries
+
+* 18 March 2020 – Restricted opening hours of 11am – 1pm, Monday to Friday from 19–31 March at Darling Square, Green Square and Custom House Libraries. Closure from 19-31 March of all other City of Sydney libraries. [More info...](https://news.cityofsydney.nsw.gov.au/announcements/coronavirus-how-were-responding)
+
 ### Fighter World Aviation Museum
 
 * 16 March 2020 – Closed until further notice. [More info...](https://www.fighterworld.com.au/fighter-world-closed)
