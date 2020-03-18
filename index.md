@@ -199,6 +199,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 ## Tasmania
 
+### Army Museum of Tasmania
+
+* 17 March 2020 – Closed until further notice. [More info...](https://armymuseumtasmania.org.au/)
+
 ### Libraries Tasmania
 
 16 March 2020 – Libraries remain open, but programs, courses, and events have been cancelled. [More info...](https://libraries.tas.gov.au/Pages/coronavirus.aspx)
