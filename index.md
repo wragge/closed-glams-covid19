@@ -456,6 +456,10 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 17 March 2020 - All library branches and mobile libraries closed at COB 17 March 2020 until 14 April 2020. [More info...](https://www.wgrlc.vic.gov.au/service-update/)
 
+### Wimmera Regional Library Corporation
+
+* 17 March 2020 – St Arnaud & Stawell Libraries closed from 18 March.  Dimboola & Nhill Libraries closed from 19 March. All library programs cancelled. [More info...](https://wrlc.libsvic.ent.sirsidynix.net.au/client/en_AU/wrlc/)
+
 ### Wyndham City Libraries
 
 * 17 March 2020 – Libraries closed from Thursday 19 March. [More info...](https://www.wyndham.vic.gov.au/covid19)
@@ -493,7 +497,7 @@ For more information on closures of state-owned cultural institutions in Victori
 ----
 
 
-Last updated 18 March 2020, 10:52am.
+Last updated 18 March 2020, 11:11am.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
