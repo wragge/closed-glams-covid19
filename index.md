@@ -17,6 +17,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 17 March 2020 – Stanner Reading Room closed. No public access, appointments, visits or tours available until 30 June 2020. [More info...](https://aiatsis.gov.au/news-and-events/news/stanner-reading-room-closed)
 
+### Libraries ACT
+
+* 18 March 2020 – Program of events at all nine public library branches and the ACT Heritage Library has been suspended. [More info...](https://www.library.act.gov.au/functions/whats-new/whats-new-items/advice-relating-to-novel-coronavirus/_nocache)
+
 ### Museum of Australian Democracy
 
 * 17 March 2020 – Museum is open, but PlayUP and is closed and all public programs including tours, Backspace, and Family Action Packs have been suspended. [More info...](https://www.moadoph.gov.au/covid-19-visitor-information/)
