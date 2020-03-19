@@ -69,6 +69,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 17 March 2020 – Closed from 20 March for 30 days. [More info...](http://www.infantrymuseum.com.au/)
 
+### Australian Museum
+
+* 19 March 2020 – The Museum is currently closed for renovation. All public programs and events until 30 April 2020 have been cancelled. [More info...](https://australianmuseum.net.au/about/organisation/media-centre/covid-19/)
+
 ### Australian National Maritime Museum
 
 * 15 March 2020 – Museum is open, but vessels, 3D cinema, and Kids on Deck are closed until further notice. [More info...](https://www.sea.museum/visit/availability)
