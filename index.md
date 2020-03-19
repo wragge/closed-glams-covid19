@@ -629,6 +629,10 @@ For more information on closures of state-owned cultural institutions in Victori
 * 18 March 2020 – Events of more than 100 people are cancelled. Programs delivered by independent volunteer groups are suspended until further notice. [More info...](https://artgallery.wa.gov.au/covid-19)
 * 17 March 2020 – Remains open. [More info...](https://artgallery.wa.gov.au/covid-19)
 
+### City of Canning Libraries
+
+* 19 March 2020 – Willetton Library and Bentley Hub closed from 23 March until further notice. Cannington and Riverton libraries will remain open. Library programming and events suspended. [More info...](https://www.canning.wa.gov.au/newsroom/willetton-library-and-bentley-hub-closures-e3105fa5)
+
 ### Claremont Community Hub and Library
 
 * 18 March 2020 – Claremont Community Hub & Library building will be closed from 23 March. All programs and activities postponed from 23 March. [More info...](https://www.claremont.wa.gov.au/Community-and-Living/Claremont-Community-Hub-and-Library)
@@ -665,7 +669,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 19 March 2020, 3:42pm.
+Last updated 19 March 2020, 5:48pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
