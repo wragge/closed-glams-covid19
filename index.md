@@ -108,6 +108,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 16 March 2020 – Public and exhibition spaces are open, but public and education programs have been cancelled. [More info...](https://maas.museum/coronavirus-information/)
 
+### Randwick City Libraries
+
+19 March 2020 – Branches closed until further notice. Events, programs and activities are suspended. [More info...](http://www.randwick.nsw.gov.au/library/about-the-library/news/2020/march/how-coronavirus-is-impacting-the-library)
+
 ### Royal Australian Historical Society
 
 * 18 March 2020 – All public events postponed for the next 4-6 weeks. [More info...](https://mailchi.mp/b72a9c8297d4/rahs-special-newsletter-covid-19?e=bae48b8362)
@@ -606,7 +610,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 18 March 2020, 9:32pm.
+Last updated 19 March 2020, 12:37pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
