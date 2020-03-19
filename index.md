@@ -157,6 +157,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 18 March 2020 - All Cairns Libraries branches will be enforcing a 100 person visitor cap. [More info...](https://www.cairns.qld.gov.au/council/news-publications/media-releases/releases/coronavirus-advice-no.-2)
 
+### Fraser Coast Libraries
+
+* 19 March 2020 - All library branches will close from noon on 21 March 2020 until further notice. [More info...](https://www.frasercoast.qld.gov.au/libraries)
+
 ### Gympie Regional Libraries
 
 * 19 March 2020 - All programs, events and outreach programs are cancelled until further notice. [More info...](https://www.gympie.qld.gov.au/web/library/home/-/asset_publisher/Tlmt50DjrBdQ/content/gympie-regional-libraries-have-cancelled-all-programs-events-and-outreach-services)
@@ -626,7 +630,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 19 March 2020, 1:25pm.
+Last updated 19 March 2020, 1:27pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
