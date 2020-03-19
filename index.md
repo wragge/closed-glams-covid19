@@ -282,6 +282,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 17 March 2020 - Gepps Cross Research Centre temporarily closed as of Tuesday 17 March. [More info...](https://archives.sa.gov.au/general-information/contact-us/research-centre)
 
+### Tandanya National Aboriginal Cultural Institute
+
+* 19 March 2020 - Closed to the public until Monday 23rd March. [More info...](https://www.facebook.com/155133834537136/photos/p.2947108182006340/2947108182006340/?type=1&theater)
+
 ### The Cedars
 
 * 17 March 2020 - Closed until further notice. [More info...](https://www.hansheysen.com.au/)
