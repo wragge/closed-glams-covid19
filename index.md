@@ -618,6 +618,10 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 17 March 2020 - Remain open. [More info...](https://www.slwa.wa.gov.au/news/your-source-truth-covid-19)
 
+### State Records Office of Western Australia
+
+* 19 March 2020 -Currently open as usual but restricts time in search room to 2 hours and 2 meters or more from each other. [More info...](https://twitter.com/StateRecordsWA/status/1240477149779218432) 
+
 ### Western Australian Museum
 
 * 16 March 2020 – The submarine HMAS Ovens is closed to the public. [More info...](http://museum.wa.gov.au/about/covid-19)
