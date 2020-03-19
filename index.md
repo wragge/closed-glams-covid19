@@ -256,6 +256,7 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 ### South Australian Aviation Museum
 
+* 19 March 2020 - Closed until advised it is safe to open. [More info...](https://www.facebook.com/saammuseum/photos/a.324660724313199/2666007716845143/?type=3&theater)
 * 17 March 2020 - Open Cockpits & Engine Run Day POSTPONED. [More info...](http://www.saam.org.au/sorry-our-open-cockpits-engine-run-day-postponed/)
 
 ### South Australian Maritime Museum
