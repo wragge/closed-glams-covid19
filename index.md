@@ -256,7 +256,7 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 ### Burnside Library
 
-* - 20 March 2020 - Closed. A new ‘call-and-collect’ service will be in place along with an increase in the Home Library Service. [More info...](https://www.burnside.sa.gov.au/Latest-News/Homepage-Latest-News/Council-Service-Delivery-during-COVID-19-Coronavirus-conditions)
+* - 20 March 2020 - Closed. A new ‘call-and-collect’ service will be in place along with an increase in the Home Library Service. [More info...](https://www.burnside.sa.gov.au/Community-Recreation/Community-Venues/Burnside-Library)
 
 ### Cape Jaffa Lightouse
 
@@ -352,6 +352,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 ### Tanunda Library
 
 * 19 March 2020 - Closed to the public. [More info...](https://www.barossa.sa.gov.au/sections/council/news/managing-covid19-risk)
+
+### Tea Tree Gully Library
+
+* 20 March 2020 - Open but suspending all programs and events until further notice. [More info...](https://www.teatreegully.sa.gov.au/Events_and_places/Places_-_Council_parks_facilities_and_venues/Library)
 
 ### The Cedars
 
