@@ -371,6 +371,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ### Bayside City Libraries
 
+* 19 March 2020 – Libraries and gallery will close from 5pm on 20 March. [More info...](https://www.bayside.vic.gov.au/news/temporary-libraries-and-gallery-closure)
 * 17 March 2020 – All programs and events cancelled. [More info...](https://www.bayside.vic.gov.au/whats-bayside-libraries)
 
 ### Bendigo Regional Archives Centre
@@ -664,7 +665,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 19 March 2020, 2:28pm.
+Last updated 19 March 2020, 3:42pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
