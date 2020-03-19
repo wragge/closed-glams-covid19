@@ -516,7 +516,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 17 March 2020 - All branches closed until further notice. [More info...](https://ourlibrary.mornpen.vic.gov.au/Home)
 
-### Murrindini Library Service
+### Murrindindi Library Service
 
 * 17 March 2020 - Alexandra, Yea and Kinglake branches remain open but all public programs and events suspended until further notice. [More info...](https://www.murrindindi.vic.gov.au/Our-Community/Coronavirus-Disease-COVID-19#section-2)
 
@@ -648,7 +648,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 19 March 2020, 2:28pm.
+Last updated 19 March 2020, 2:35pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
