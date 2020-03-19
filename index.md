@@ -181,6 +181,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 17 March 2020 - Closed until further notice. [More info...](https://ima.org.au/news/14816/)
 
+### Livingstone Libraries
+
+* 17 March 2020 - All public programs and events cancelled for the remainder of March, April and May. [More info...](https://www.livingstone.qld.gov.au/CivicAlerts.aspx?AID=3316)
+
 ### Mossman and Port Douglas Libraries
 
 * 16 March 2020 - Various events cancelled at both library branches, detailed in FAQ. [More info...](https://douglas.qld.gov.au/council-prepared-for-covid-19-impacts/)
@@ -634,7 +638,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 19 March 2020, 1:30pm
+Last updated 19 March 2020, 1:32pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
