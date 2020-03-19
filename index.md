@@ -251,6 +251,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 * 17 March 2020 - Library is open and monitoring the situation. [More here...](https://www.adelaide.edu.au/newsroom/covid-19)
 * 17 March 2020 - The Molly Murn library event for March 26 has been cancessed. [More here...](https://twitter.com/uofalib/status/1239724153835405312)
 
+### Cape Jaffa Lightouse
+
+* 19 March 2020 - Closed for a two week period until 30 March. [More info...](https://www.facebook.com/CapeJaffaLighthouse/posts/2590419624537819)
+
 ### History Trust of South Australia
 
 * 18 March 2020 - Suspending all education and public programs until further notice at the History Trust of SA and its four museums. [More info...](https://history.sa.gov.au/coronavirus-covid-19-update/)
@@ -697,7 +701,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 19 March 2020, 7:39pm.
+Last updated 19 March 2020, 8:12pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
