@@ -28,6 +28,7 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 ### Museum of Australian Democracy
 
+* 19 March 2020 - Closing gallieries for the time being. Online programs being developed. [More info...](https://mod.org.au/visit/getting-here/)
 * 17 March 2020 – Museum is open, but PlayUP and is closed and all public programs including tours, Backspace, and Family Action Packs have been suspended. [More info...](https://www.moadoph.gov.au/covid-19-visitor-information/)
 
 ### National Archives of Australia
@@ -643,7 +644,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 19 March 2020, 1:32pm.
+Last updated 19 March 2020, 2:28pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
