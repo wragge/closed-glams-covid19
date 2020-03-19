@@ -177,6 +177,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 17 March 2020 - Closed until further notice. [More info...](https://ima.org.au/news/14816/)
 
+### Mossman and Port Douglas Libraries
+
+* 16 March 2020 - Various events cancelled at both library branches, detailed in FAQ. [More info...](https://douglas.qld.gov.au/council-prepared-for-covid-19-impacts/)
+
 ### Museum of Brisbane
 
 * 16 March 2020 – Museum is open, but public programming and tours have been suspended for at least two weeks.
