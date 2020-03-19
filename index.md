@@ -255,6 +255,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 17 March 2020 - Remains open but temporarily suspending all tours and events until advised otherwise. [More info...](https://unisa.edu.au/Business-community/samstag-museum/events/2020/covid19/)
 
+### Santos Museum of Economic Botany
+
+* 19 March 2020 - Closed until further notice. [More info...](https://www.botanicgardens.sa.gov.au/visit/adelaide-botanic-garden/visitor-information/planning-your-visit)
+
 ### South Australian Aviation Museum
 
 * 19 March 2020 - Closed until advised it is safe to open. [More info...](https://www.facebook.com/saammuseum/photos/a.324660724313199/2666007716845143/?type=3&theater)
