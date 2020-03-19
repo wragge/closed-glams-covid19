@@ -165,6 +165,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 19 March 2020 - All public programs cancelled until 1 June 2020. [More info...](http://www.gladstonelibraries.qld.gov.au/)
 
+### Gold Coast Libraries
+
+* 19 March 2020 - All library programs and events cancelled until further notice. [More info...](http://www.goldcoast.qld.gov.au/library/default.html)
+
 ### HOTA
 
 * 16 March 2020 – Closed until the end of March. [More info...](https://hota.com.au/stories/hota-to-close-until-the-end-of-march/)
@@ -622,7 +626,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 19 March 2020, 12:47pm.
+Last updated 19 March 2020, 1:30pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
