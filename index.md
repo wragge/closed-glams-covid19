@@ -69,6 +69,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 17 March 2020 – Closed from 20 March for 30 days. [More info...](http://www.infantrymuseum.com.au/)
 
+### Australian Museum
+
+* 19 March 2020 – The Museum is currently closed for renovation. All public programs and events until 30 April 2020 have been cancelled. [More info...](https://australianmuseum.net.au/about/organisation/media-centre/covid-19/)
+
 ### Australian National Maritime Museum
 
 * 15 March 2020 – Museum is open, but vessels, 3D cinema, and Kids on Deck are closed until further notice. [More info...](https://www.sea.museum/visit/availability)
@@ -139,6 +143,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 * 16 March 2020 – Public libraries closed including  Woollahra Library at Double Bay, Watsons Bay Library and Paddington Library. [More info...](https://www.woollahra.nsw.gov.au/news/articles/get_the_facts_covid-19#libraries)
 
 ## Northern Territory
+
+### NT Chinese Museum
+
+* 19 March 2020 – Opening deferred until at least 1 April. [More info...](https://www.chungwahnt.asn.au/nt-chinese-museum/)
 
 ### MAGNT
 
@@ -222,6 +230,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 ## South Australia
 
+### Army Museum of South Australia
+
+* - 19 March 2020 - Closed for 30 days from March 17 2020. [More info...](https://twitter.com/AMOSAF/status/1239738530781253632)
+
 ### Art Gallery of South Australia
 
 * 16 March 2020 – Gallery is open, but public programs and member events have been suspended. [More info...](https://www.agsa.sa.gov.au/visit/agsas-response-covid-19/)
@@ -254,6 +266,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 ### SAMSTAG Museum
 
 * 17 March 2020 - Remains open but temporarily suspending all tours and events until advised otherwise. [More info...](https://unisa.edu.au/Business-community/samstag-museum/events/2020/covid19/)
+
+### Santos Museum of Economic Botany
+
+* 19 March 2020 - Closed until further notice. [More info...](https://www.botanicgardens.sa.gov.au/visit/adelaide-botanic-garden/visitor-information/planning-your-visit)
 
 ### South Australian Aviation Museum
 
@@ -355,6 +371,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ### Bayside City Libraries
 
+* 19 March 2020 – Libraries and gallery will close from 5pm on 20 March. [More info...](https://www.bayside.vic.gov.au/news/temporary-libraries-and-gallery-closure)
 * 17 March 2020 – All programs and events cancelled. [More info...](https://www.bayside.vic.gov.au/whats-bayside-libraries)
 
 ### Bendigo Regional Archives Centre
@@ -648,7 +665,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 19 March 2020, 2:35pm.
+Last updated 19 March 2020, 3:42pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
