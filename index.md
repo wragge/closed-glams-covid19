@@ -266,6 +266,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 20 March 2020 - Closed until further notice. [More info...](https://www.cityofadelaide.com.au/blog/coronavirus-covid-19-latest-information/)
 
+### City of Port Adelaide Libraries
+
+* - 20 March 2020 - Open. Suspending close proximity sessions and encouraging social distancing within library space. [More info...](https://www.cityofpae.sa.gov.au/explore/libraries)
+
 ### Freeling Library
 
 * 19 March 2020 - Open but suspend all face-to-face library programes, events and outreach services. [More info...](https://www.facebook.com/LightRegionalCouncil/posts/2437869222983898)
@@ -736,7 +740,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 20 March 2020, 9:50am.
+Last updated 20 March 2020, 9:57am.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
