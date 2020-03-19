@@ -157,6 +157,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 18 March 2020 - All Cairns Libraries branches will be enforcing a 100 person visitor cap. [More info...](https://www.cairns.qld.gov.au/council/news-publications/media-releases/releases/coronavirus-advice-no.-2)
 
+### Fraser Coast Libraries
+
+* 19 March 2020 - All library branches will close from noon on 21 March 2020 until further notice. [More info...](https://www.frasercoast.qld.gov.au/libraries)
+
 ### Gympie Regional Libraries
 
 * 19 March 2020 - All programs, events and outreach programs are cancelled until further notice. [More info...](https://www.gympie.qld.gov.au/web/library/home/-/asset_publisher/Tlmt50DjrBdQ/content/gympie-regional-libraries-have-cancelled-all-programs-events-and-outreach-services)
@@ -164,6 +168,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 ### Gladstone Regional Libraries
 
 * 19 March 2020 - All public programs cancelled until 1 June 2020. [More info...](http://www.gladstonelibraries.qld.gov.au/)
+
+### Gold Coast Libraries
+
+* 19 March 2020 - All library programs and events cancelled until further notice. [More info...](http://www.goldcoast.qld.gov.au/library/default.html)
 
 ### HOTA
 
@@ -176,6 +184,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 ### Livingstone Libraries
 
 * 17 March 2020 - All public programs and events cancelled for the remainder of March, April and May. [More info...](https://www.livingstone.qld.gov.au/CivicAlerts.aspx?AID=3316)
+
+### Mossman and Port Douglas Libraries
+
+* 16 March 2020 - Various events cancelled at both library branches, detailed in FAQ. [More info...](https://douglas.qld.gov.au/council-prepared-for-covid-19-impacts/)
 
 ### Museum of Brisbane
 
