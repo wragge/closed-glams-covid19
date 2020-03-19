@@ -187,6 +187,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 17 March 2020 - World Science Festival Brisbane is cancelled, museum remains open to the public. [More info...](https://www.worldsciencefestival.com.au/)
 
+### Queensland State Archives
+
+* 19 March 2020 - All public events, programs, guided tours and Memory Lounge facilitated sessions cancelled until further notice. [Via FB...](https://www.facebook.com/qldstatearchives/posts/2631066133682399)
+
 ### RAAF Amberley Aviation Heritage Centre
 
 * 17 March 2020 - Closed until further notice. [More info...](https://www.raafamberleyheritage.gov.au/?fbclid=IwAR3vFYys8MaJBwqYnrrUi6BOJRcYkj0Jc19Q-LBUsIOGzL87ndufGTSY86g)
@@ -618,7 +622,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 19 March 2020, 12:44pm.
+Last updated 19 March 2020, 12:47pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
