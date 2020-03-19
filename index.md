@@ -267,6 +267,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 19 March 2020 - Open but all programs, events, meetings and activities are postponed until further notice. [More info...](https://www.facebook.com/TheMountGambierLibrary/posts/10158971082063357)
 
+### Naracoorte Public Library
+
+* 19 March 2020 - Open but cancelling public activities and programs. [More info...](https://www.naracoortelucindale.sa.gov.au/council/news-tenders-and-employment/latest-news/covid-19)
+
 ### National Motor Museum
 
 * 18 March 2020 - Open but are suspending all education and public programs until further notice. [More info...](https://motor.history.sa.gov.au/coronavirus-covid-19-update/)
@@ -685,7 +689,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 19 March 2020, 7:19pm.
+Last updated 19 March 2020, 7:32pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
