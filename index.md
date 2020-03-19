@@ -689,6 +689,10 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 18 March 2020 – Library is open, but the Toy Library is closed, and programs have been cancelled. [More info...](https://www.fremantle.wa.gov.au/covid-19-updates)
 
+### Museum of Perth
+
+* 19 March 2020 – Gallery closed from 20 March. [Via FB...](https://www.facebook.com/museumofperth/posts/2906617539421257)
+
 ### State Library of Western Australia
 
 * 17 March 2020 - Remain open. [More info...](https://www.slwa.wa.gov.au/news/your-source-truth-covid-19)
