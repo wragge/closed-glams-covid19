@@ -687,6 +687,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ### Yarra Plenty Regional Library
 
+* 19 March 2020 – Mobile Library suspended for 30 days.
 * 16 March 2020 – Library branches remain open, but public programs, events, and outreach services have been suspended for 30 days. [More info...](https://www.yprl.vic.gov.au/blogs/post/yprl-has-cancelled-all-programs-events-and-outreach-services-for-30-days/)
 
 ## Western Australia
