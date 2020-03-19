@@ -138,6 +138,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 * 18 March 2020 - ANZAC Day Showcase cancelled. Decisions on future events have yet to be made. [More info...](https://twitter.com/TemoraAviation/status/1240063478557052928)
 * 16 March 2020 – The March 21 Showcase has been cancelled. [More info...](https://aviationmuseum.com.au/4625-2/)
 
+### Wagga Wagga City Library
+
+* 19 March 2020 - Open but suspending all public programs and events until further notice. [More info...](https://waggalibrary.com.au/about-your-library/about-the-library)
+
 ### Woollahra Municipal Council
 
 * 16 March 2020 – Public libraries closed including  Woollahra Library at Double Bay, Watsons Bay Library and Paddington Library. [More info...](https://www.woollahra.nsw.gov.au/news/articles/get_the_facts_covid-19#libraries)
@@ -681,7 +685,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 19 March 2020, 6:59pm.
+Last updated 19 March 2020, 7:19pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
