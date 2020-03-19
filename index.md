@@ -254,6 +254,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 * 17 March 2020 - Library is open and monitoring the situation. [More here...](https://www.adelaide.edu.au/newsroom/covid-19)
 * 17 March 2020 - The Molly Murn library event for March 26 has been cancessed. [More here...](https://twitter.com/uofalib/status/1239724153835405312)
 
+### Burnside Library
+
+* - 20 March 2020 - Closed. A new ‘call-and-collect’ service will be in place along with an increase in the Home Library Service. [More info...](https://www.burnside.sa.gov.au/Latest-News/Homepage-Latest-News/Council-Service-Delivery-during-COVID-19-Coronavirus-conditions)
+
 ### Cape Jaffa Lightouse
 
 * 19 March 2020 - Closed for a two week period until 30 March. [More info...](https://www.facebook.com/CapeJaffaLighthouse/posts/2590419624537819)
@@ -724,7 +728,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 19 March 2020, 9:46pm.
+Last updated 19 March 2020, 9:43am.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
