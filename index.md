@@ -28,7 +28,6 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 ### Museum of Australian Democracy
 
-* 19 March 2020 - Closing gallieries for the time being. Online programs being developed. [More info...](https://mod.org.au/visit/getting-here/)
 * 17 March 2020 – Museum is open, but PlayUP and is closed and all public programs including tours, Backspace, and Family Action Packs have been suspended. [More info...](https://www.moadoph.gov.au/covid-19-visitor-information/)
 
 ### National Archives of Australia
@@ -282,6 +281,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 ### Millicent Library and Gallery
 
 * 19 March 2020 - Open but are cancelling programmes, events, meetings and activities until further notice. [More info...](https://www.facebook.com/MillicentLibraryGallery/posts/3218833708145328)
+
+### MOD.
+
+* 19 March 2020 - Closing gallieries for the time being. Online programs being developed. [More info...](https://mod.org.au/visit/getting-here/)
 
 ### Mount Gambier Library
 
@@ -721,7 +724,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 19 March 2020, 8:27pm.
+Last updated 19 March 2020, 9:46pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
