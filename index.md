@@ -157,6 +157,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 18 March 2020 - All programs and events at all library branches are cancelled until the end of May. [More info...](https://www.artsbundaberg.com.au/libraries/events)
 
+### Gladstone Regional Libraries
+
+* 19 March 2020 - All public programs cancelled until 1 June 2020. [More info...](http://www.gladstonelibraries.qld.gov.au/)
+
 ### HOTA
 
 * 16 March 2020 – Closed until the end of March. [More info...](https://hota.com.au/stories/hota-to-close-until-the-end-of-march/)
@@ -610,7 +614,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 19 March 2020, 12:37pm.
+Last updated 19 March 2020, 12:44pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
