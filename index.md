@@ -399,6 +399,10 @@ For more information on closures of state-owned cultural institutions in Victori
 * 18 March 2020 – All libraries closed from 19 March until further notice. [More info...](https://www.cclc.vic.gov.au/change-in-library-services-due-to-coronavirus-covid-19-pandemic/)
 * 16 March 2020 – Branches remain open, but library programs, events and outreach services have been suspended. [More info...](https://www.cclc.vic.gov.au/change-in-library-services-due-to-coronavirus-covid-19-pandemic/)
 
+### Castlemaine Art Museum
+
+* 19 March 2020 - Closed for 1 month from March 19th. [More info...](https://www.facebook.com/CastlemaineArtMuseum/photos/a.1446730808920183/2745238725736045/?type=3&theater) 
+
 ### Chinese Museum
 
 * 17 March 2020 – Closed from 4pm on 17 March. Events and education services are cancelled or postponed. [More info...](https://chinesemuseum.com.au/)
@@ -669,7 +673,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 19 March 2020, 5:48pm.
+Last updated 19 March 2020, 6:59pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
