@@ -259,6 +259,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 19 March 2020 - Open but are cancelling programmes, events, meetings and activities until further notice. [More info...](https://www.facebook.com/MillicentLibraryGallery/posts/3218833708145328)
 
+### Mount Gambier Library
+
+* 19 March 2020 - Open but all programs, events, meetings and activities are postponed until further notice. [More info...](https://www.facebook.com/TheMountGambierLibrary/posts/10158971082063357)
+
 ### National Motor Museum
 
 * 18 March 2020 - Open but are suspending all education and public programs until further notice. [More info...](https://motor.history.sa.gov.au/coronavirus-covid-19-update/)
