@@ -161,6 +161,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 19 March 2020 - All programs, events and outreach programs are cancelled until further notice. [More info...](https://www.gympie.qld.gov.au/web/library/home/-/asset_publisher/Tlmt50DjrBdQ/content/gympie-regional-libraries-have-cancelled-all-programs-events-and-outreach-services)
 
+### Gladstone Regional Libraries
+
+* 19 March 2020 - All public programs cancelled until 1 June 2020. [More info...](http://www.gladstonelibraries.qld.gov.au/)
+
 ### HOTA
 
 * 16 March 2020 – Closed until the end of March. [More info...](https://hota.com.au/stories/hota-to-close-until-the-end-of-march/)
@@ -614,7 +618,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 19 March 2020, 12:40pm.
+Last updated 19 March 2020, 12:44pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
