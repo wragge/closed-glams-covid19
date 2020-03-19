@@ -279,6 +279,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 17 March 2020 - [Update from the National Railway Museum on COVID-19](https://nrm.org.au/whatson/latest-news)
 
+### Nuriootpa Library
+
+* 19 Mrch 2020 - Open but use self-service options and practice social distancing. [More info...](https://www.barossa.sa.gov.au/sections/council/news/managing-covid19-risk)
+
 ### SAMSTAG Museum
 
 * 17 March 2020 - Remains open but temporarily suspending all tours and events until advised otherwise. [More info...](https://unisa.edu.au/Business-community/samstag-museum/events/2020/covid19/)
@@ -317,6 +321,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 ### Tandanya National Aboriginal Cultural Institute
 
 * 19 March 2020 - Closed to the public until Monday 23rd March. [More info...](https://www.facebook.com/155133834537136/photos/p.2947108182006340/2947108182006340/?type=1&theater)
+
+### Tanunda Library
+
+* 19 March 2020 - Closed to the public. [More info...](https://www.barossa.sa.gov.au/sections/council/news/managing-covid19-risk)
 
 ### The Cedars
 
@@ -689,7 +697,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 19 March 2020, 7:32pm.
+Last updated 19 March 2020, 7:39pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
