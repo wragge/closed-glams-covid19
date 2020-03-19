@@ -121,6 +121,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 18 March 2020 – All public events postponed for the next 4-6 weeks. [More info...](https://mailchi.mp/b72a9c8297d4/rahs-special-newsletter-covid-19?e=bae48b8362)
 
+### Society of Australian Genealogists
+
+* 17 March 2020 – The Archives are closed for research from 17 March. The Library will be closed from 22 March. All face to face events are suspended until the end of April. [More info...](https://www.sag.org.au/News/8835982)
+
 ### State Library of NSW
 
 * 16 March 2020 – The Library is open, but public events have been cancelled. [More info...](https://www.sl.nsw.gov.au/news/important-information-covid-19)
