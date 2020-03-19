@@ -262,6 +262,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 19 March 2020 - Closed for a two week period until 30 March. [More info...](https://www.facebook.com/CapeJaffaLighthouse/posts/2590419624537819)
 
+### City of Adelaide Libraries
+
+* 20 March 2020 - Closed until further notice. [More info...](https://www.cityofadelaide.com.au/blog/coronavirus-covid-19-latest-information/)
+
 ### Freeling Library
 
 * 19 March 2020 - Open but suspend all face-to-face library programes, events and outreach services. [More info...](https://www.facebook.com/LightRegionalCouncil/posts/2437869222983898)
@@ -732,7 +736,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 19 March 2020, 9:43am.
+Last updated 20 March 2020, 9:50am.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
