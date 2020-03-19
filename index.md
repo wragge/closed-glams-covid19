@@ -300,6 +300,7 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 ### Mount Gambier Library
 
+* 20 March 2020 - Closing on Sunday 22 March at 3:00pm until further notice. Digital services still available. [More info...](https://www.facebook.com/TheMountGambierLibrary/posts/10158974890988357)
 * 19 March 2020 - Open but all programs, events, meetings and activities are postponed until further notice. [More info...](https://www.facebook.com/TheMountGambierLibrary/posts/10158971082063357)
 
 ### Naracoorte Public Library
@@ -741,7 +742,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 20 March 2020, 9:57am.
+Last updated 20 March 2020, 10:31am.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
