@@ -140,6 +140,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 ## Northern Territory
 
+### NT Chinese Museum
+
+* 19 March 2020 – Opening deferred until at least 1 April. [More info...](https://www.chungwahnt.asn.au/nt-chinese-museum/)
+
 ### MAGNT
 
 * 16 March 2020 – Museum venues are still open, but Discovery Centres in MAGNT Darwin and in Megafauna Central Alice Springs are closed. [Via FB...](https://www.facebook.com/magnt.net.au/photos/a.293507787498892/1458386747677651/?type=3&theater)
