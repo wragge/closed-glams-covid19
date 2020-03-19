@@ -222,6 +222,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 ## South Australia
 
+### Army Museum of South Australia
+
+* - 19 March 2020 - Closed for 30 days from March 17 2020. [More info...](https://twitter.com/AMOSAF/status/1239738530781253632)
+
 ### Art Gallery of South Australia
 
 * 16 March 2020 – Gallery is open, but public programs and member events have been suspended. [More info...](https://www.agsa.sa.gov.au/visit/agsas-response-covid-19/)
