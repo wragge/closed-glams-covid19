@@ -6,7 +6,7 @@ Things are changing rapidly, so check the links next to each update for current 
 
 **Current totals:**
 
-🛑 96 GLAM institutions are completely closed  
+🛑 97 GLAM institutions are completely closed  
 ⚠️ 81 GLAM institutions are partially closed, have restricted services, or cancelled events
 
 * [ACT](#act)
@@ -40,7 +40,7 @@ Things are changing rapidly, so check the links next to each update for current 
 
 ### National Archives of Australia
 
-* 🛑 20 March 2020 – SA research centre closed. Research centres in NSW and Melbourne closed from 23 March. [More info...](https://www.naa.gov.au/visitor-update-covid-19)
+* ⚠️ 20 March 2020 – SA research centre closed. Research centres in NSW and Melbourne closed from 23 March. [More info...](https://www.naa.gov.au/visitor-update-covid-19)
 * ⚠️ 17 March 2020 – National and state offices remain open, but public events and talks, education programs, school holiday programs, and tours have been suspended. [More info...](https://www.naa.gov.au/visitor-update-coronavirus)
 
 ### National Film and Sound Archive
@@ -411,6 +411,10 @@ Things are changing rapidly, so check the links next to each update for current 
 ### MONA
 
 * 🛑 17 March 2020 – Closed from 18 March. [More info...](https://mona.net.au/virus-takes-mona-check)
+
+### Plimsoll Gallery, University of Tasmania
+
+* 🛑 13 March 2020 – Closed until 30 May. [More info...](https://www.utas.edu.au/creative-arts/events/art-hobart/2020/march/plimsoll-temporarily-closed)
 
 ### Port Arthur Historic Site
 
