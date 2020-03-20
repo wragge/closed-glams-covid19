@@ -343,6 +343,7 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 ### South Australia's History Festival
 
+* 20 March 2020 - SA's History Fesitval 2020 has been cancelled. [More info...](https://historyfestival.history.sa.gov.au/media-releases/south-australias-history-festival-2020-cancelled)
 * 18 March 2020 - The History Fesitval Program Launch suspended. With regard to South Australia’s History Festival (May 2020) we are evaluating the best course of action and will release an update as soon as possible. [More info...](https://historyfestival.history.sa.gov.au/news/coronavirus-covid-19-update) 
 
 ### State Library of South Australia
@@ -747,7 +748,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 20 March 2020, 11:12am.
+Last updated 20 March 2020, 1:31pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
