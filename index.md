@@ -1,7 +1,14 @@
 # Australian GLAMs and COVID-19
+
 Tracking closures, cancellations, and reduced services in Australian galleries, libraries, archives, and museums.
 
-Things are changing rapidly, so check the links for current information.
+Things are changing rapidly, so check the links next to update for current information.
+
+Current toals:
+
+🛑 – 96 GLAM institutions are completely closed
+
+⚠️ – 81 GLAM institutions are partially closed, have restricted services, or cancelled events
 
 * [ACT](#act)
 * [New South Wales](#nsw)
