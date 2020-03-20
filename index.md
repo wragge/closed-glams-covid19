@@ -391,6 +391,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 17 March 2020 – Closed until further notice. [More info...](https://armymuseumtasmania.org.au/)
 
+### East Coast Heritage Museum
+
+* 20 March 2020 - Closed to the oublic until May 5th, then reassessed. [More info...](https://www.facebook.com/eastcoastheritagemuseum/posts/3084344371577214)
+
 ### Libraries Tasmania
 
 16 March 2020 – Libraries remain open, but programs, courses, and events have been cancelled. [More info...](https://libraries.tas.gov.au/Pages/coronavirus.aspx)
@@ -765,7 +769,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 20 March 2020, 1:45pm.
+Last updated 20 March 2020, 3:32pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
