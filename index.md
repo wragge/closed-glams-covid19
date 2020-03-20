@@ -643,6 +643,10 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 16 March 2020 – Closed until further notice. [More info...](https://www.shrine.org.au/Special-pages/Temporary-Closure)
 
+### Sovereign Hill
+
+* 20 March 2020 - Closed as of Friday 20 March 5pm until further notice. [More info...](https://twitter.com/sovereignhill/status/1240815358832832515)
+
 ### State Library of Victoria
 
 * 16 March 2020 – All public spaces are closed. [More info...](https://www.slv.vic.gov.au/closure)
