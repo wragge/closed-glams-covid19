@@ -2,13 +2,12 @@
 
 Tracking closures, cancellations, and reduced services in Australian galleries, libraries, archives, and museums.
 
-Things are changing rapidly, so check the links next to update for current information.
+Things are changing rapidly, so check the links next to each update for current information.
 
-Current toals:
+**Current totals:**
 
-🛑 – 96 GLAM institutions are completely closed
-
-⚠️ – 81 GLAM institutions are partially closed, have restricted services, or cancelled events
+🛑 96 GLAM institutions are completely closed  
+⚠️ 81 GLAM institutions are partially closed, have restricted services, or cancelled events
 
 * [ACT](#act)
 * [New South Wales](#nsw)
@@ -779,7 +778,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 20 March 2020, 3:32pm.
+Last updated 20 March 2020, 5:22pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
