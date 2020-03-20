@@ -75,6 +75,7 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 ### Australian National Maritime Museum
 
+* 20 March 2020 - Permanent galleries and current exhibitions remain open at present. Temporarily suspended all public programs and events through to April 31st 2020 inclusive. [More info...](https://www.sea.museum/covid-19-update)
 * 15 March 2020 – Museum is open, but vessels, 3D cinema, and Kids on Deck are closed until further notice. [More info...](https://www.sea.museum/visit/availability)
 
 ### Blue Mountains Library
@@ -752,7 +753,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 20 March 2020, 1:31pm.
+Last updated 20 March 2020, 1:39pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
