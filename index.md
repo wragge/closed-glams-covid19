@@ -270,6 +270,10 @@ Things are changing rapidly, so check the links next to each update for current 
 
 * ⚠️ 17 March 2020 – Library remains open, but all public events and programs have been cancelled until further notice. [More info...](https://www.slq.qld.gov.au/alerts)
 
+### Toowoomba Regional Libraries
+
+* 🛑 20 March 2020 – All library facilities and art galleries closed from end of business Monday 23 March 2020 until further notice. [More info...](http://www.tr.qld.gov.au/about-council/news-publications/media-releases/14140-council-closes-libraries-art-galleries-milne-bay-aquatic-and-fitness-and-highfields-fitness-and-recreation-centres)
+
 ## South Australia
 
 ### Army Museum of South Australia
@@ -740,6 +744,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ### Yarra Plenty Regional Library
 
+* 🛑 20 March 2020 - All libraries are now closed until further notice. [More info...](https://www.yprl.vic.gov.au/)
 * ⚠️ 19 March 2020 – Mobile Library suspended for 30 days.
 * ⚠️ 16 March 2020 – Library branches remain open, but public programs, events, and outreach services have been suspended for 30 days. [More info...](https://www.yprl.vic.gov.au/blogs/post/yprl-has-cancelled-all-programs-events-and-outreach-services-for-30-days/)
 
