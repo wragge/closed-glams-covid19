@@ -32,6 +32,7 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 ### National Archives of Australia
 
+* 20 March 2020 – SA research centre closed. Research centres in NSW and Melbourne closed from 23 March. [More info...](https://www.naa.gov.au/visitor-update-covid-19)
 * 17 March 2020 – National and state offices remain open, but public events and talks, education programs, school holiday programs, and tours have been suspended. [More info...](https://www.naa.gov.au/visitor-update-coronavirus)
 
 ### National Film and Sound Archive
