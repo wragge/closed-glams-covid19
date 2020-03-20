@@ -627,7 +627,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ### Public Record Office Victoria
 
-* 20 March 2020 – The Victorian Archives Centre is closed. This includes Public Record Office Victoria and National Archives of Australia reading rooms. Talks, tours and events are cancelled. Archive centres in Ballarat, Geelong and Bendigo are also closed. [More info...](https://prov.vic.gov.au/about-us/our-blog/victorian-archives-centre-closes-visitors)
+* 20 March 2020 – The Victorian Archives Centre closed from 23 March. This includes Public Record Office Victoria and National Archives of Australia reading rooms. Talks, tours and events are cancelled. Archive centres in Ballarat, Geelong and Bendigo are also closed. [More info...](https://prov.vic.gov.au/about-us/our-blog/victorian-archives-centre-closes-visitors)
 
 ### RAAF Museum, Point Cook
 
@@ -746,7 +746,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 20 March 2020, 10:31am.
+Last updated 20 March 2020, 11:12am.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
