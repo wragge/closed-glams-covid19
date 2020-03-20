@@ -45,6 +45,7 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 ### National Library of Australia
 
+* ⚠️ 20 March 2020 – Library will close at 5pm each day. Public areas on Levels 3 and 4 are closed. Reduced computers available. [More info...](https://www.nla.gov.au/stories/news/2020/03/20/vistor-update-covid-19)
 * 16 March 2020 – Library is open, but onsite public programs have been suspended. [More info...](https://www.nla.gov.au/stories/news/2020/03/16/visitor-update-covid-19)
 
 ### National Museum of Australia
