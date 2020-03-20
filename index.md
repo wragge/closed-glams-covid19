@@ -216,6 +216,10 @@ Things are changing rapidly, so check the links next to each update for current 
 
 * ⚠️ 17 March 2020 - All public programs and events cancelled for the remainder of March, April and May. [More info...](https://www.livingstone.qld.gov.au/CivicAlerts.aspx?AID=3316)
 
+### Longreach Libraries
+
+* 🛑 20 March 2020 - Closed until further notice from 24 March 2020. [More info...](https://www.longreach.qld.gov.au/news/article/75/longreach-library-to-close-until-further-notice)
+
 ### Mackay Libraries
 
 * ⚠️ 20 March 2020 - All public programs suspended until 30 April 2020. [More info...](https://www.mackay.qld.gov.au/about_council/news_and_media/media_releases/council_facilities_suspend_public_programs)
