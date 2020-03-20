@@ -7,7 +7,7 @@ Things are changing rapidly, so check the links next to each update for current 
 **Current totals:**
 
 🛑 97 GLAM institutions are completely closed  
-⚠️ 84 GLAM institutions are partially closed, have restricted services, or cancelled events
+⚠️ 85 GLAM institutions are partially closed, have restricted services, or cancelled events
 
 * [ACT](#act)
 * [New South Wales](#nsw)
@@ -227,6 +227,10 @@ Things are changing rapidly, so check the links next to each update for current 
 ### Maranoa Libraries
 
 * ⚠️ 20 March 2020 - Public events suspended until further notice. [More info...](http://www.maranoa.qld.gov.au/services/covid-19-health-alert)
+
+### Mareeba Shire Libraries
+
+* ⚠️ 20 March 2020 - From 23 March 2020 all services (public computers, study spaces etc.) except borrowing suspended until further notice and all public events and programs cancelled. [More info...](https://msc.qld.gov.au/libraries/)
 
 ### Mossman and Port Douglas Libraries
 
@@ -794,7 +798,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 20 March 2020, 6:01pm.
+Last updated 20 March 2020, 6:05pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
