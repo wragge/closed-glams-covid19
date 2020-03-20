@@ -7,7 +7,7 @@ Things are changing rapidly, so check the links next to each update for current 
 **Current totals:**
 
 🛑 97 GLAM institutions are completely closed  
-⚠️ 81 GLAM institutions are partially closed, have restricted services, or cancelled events
+⚠️ 82 GLAM institutions are partially closed, have restricted services, or cancelled events
 
 * [ACT](#act)
 * [New South Wales](#nsw)
@@ -215,6 +215,10 @@ Things are changing rapidly, so check the links next to each update for current 
 ### Livingstone Libraries
 
 * ⚠️ 17 March 2020 - All public programs and events cancelled for the remainder of March, April and May. [More info...](https://www.livingstone.qld.gov.au/CivicAlerts.aspx?AID=3316)
+
+### Logan City Libraries
+
+* ⚠️ 20 March 2020 - Various events suspended across library branches. [More info...](https://loganlibraries.org/2020/03/18/55282/)
 
 ### Mossman and Port Douglas Libraries
 
@@ -782,7 +786,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 20 March 2020, 5:22pm.
+Last updated 20 March 2020, 5:48pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
