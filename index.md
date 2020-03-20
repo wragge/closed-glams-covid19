@@ -721,6 +721,10 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 18 March 2020 – Library is open, but the Toy Library is closed, and programs have been cancelled. [More info...](https://www.fremantle.wa.gov.au/covid-19-updates)
 
+### Joondalup Libraries
+
+* 20 March 2020 - All four Libraries (Duncraig, Joondalup, Whitford, Woodvale) are still open for business for physical loans, public computer access and WiFi. Suspension of library programs and events from 21st March until 31st May 2020. [More info...](https://www.joondalup.wa.gov.au/covid-19-update-thursday-19-march?nocache=true)
+
 ### Museum of Perth
 
 * 19 March 2020 – Gallery closed from 20 March. [Via FB...](https://www.facebook.com/museumofperth/posts/2906617539421257)
