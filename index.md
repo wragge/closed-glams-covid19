@@ -221,6 +221,10 @@ Tracking closures, cancellations, and reduced services in Australian galleries, 
 
 * 17 March 2020 - World Science Festival Brisbane is cancelled, museum remains open to the public. [More info...](https://www.worldsciencefestival.com.au/)
 
+### Queensland Police Museum
+
+* 20 March 2020 - Exhibition space has closed and all booked visits and public programming from Wednesday 18 March for an initial 2-month period suspended. [More info...](https://www.police.qld.gov.au/policemuseum)
+
 ### Queensland State Archives
 
 * 19 March 2020 - All public events, programs, guided tours and Memory Lounge facilitated sessions cancelled until further notice. [Via FB...](https://www.facebook.com/qldstatearchives/posts/2631066133682399)
@@ -757,7 +761,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 20 March 2020, 1:39pm.
+Last updated 20 March 2020, 1:45pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
