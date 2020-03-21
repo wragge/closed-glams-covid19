@@ -754,6 +754,14 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * ⚠️ 19 March 2020 – Willetton Library and Bentley Hub closed from 23 March until further notice. Cannington and Riverton libraries will remain open. Library programming and events suspended. [More info...](https://www.canning.wa.gov.au/newsroom/willetton-library-and-bentley-hub-closures-e3105fa5)
 
+### City of Fremantle
+
+* ⚠️ 20 March 2020 – City of Fremantle will be operating a modified library service from Monday 23 March. All library spaces will be closed to the public, but people will still be able to loan books and other items at the Customer Service desk at the City’s administration building at Fremantle Oval. [More info...](https://www.fremantle.wa.gov.au/news-and-media/modified-city-fremantle-library-services)
+
+### City of Gosnells Libraries
+
+* ⚠️ 20 March 2020 – All libraries remain open at this time, however all programs and events are cancelled [More info...](https://www.gosnells.wa.gov.au/About_us/News_and_publications/Coronavirus_COVID-19_update)
+
 ### Claremont Community Hub and Library
 
 * 🛑 18 March 2020 – Claremont Community Hub & Library building will be closed from 23 March. All programs and activities postponed from 23 March. [More info...](https://www.claremont.wa.gov.au/Community-and-Living/Claremont-Community-Hub-and-Library)
@@ -777,6 +785,10 @@ For more information on closures of state-owned cultural institutions in Victori
 ### State Records Office of Western Australia
 
 * ⚠️ 19 March 2020 - Currently open as usual but restricts time in search room to 2 hours and 2 meters or more from each other. [More info...](https://twitter.com/StateRecordsWA/status/1240477149779218432) 
+
+### Town of Victoria Park
+
+* 🛑 19 March 2020 - The Town’s library is closed until further notice. [More info...](https://www.victoriapark.wa.gov.au/Home/COVID-19-information)
 
 ### Western Australian Museum
 
