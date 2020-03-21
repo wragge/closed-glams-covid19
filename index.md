@@ -6,8 +6,8 @@ Things are changing rapidly, so check the links next to each update for current 
 
 **Current totals:**
 
-🛑 102 GLAM institutions are completely closed  
-⚠️ 85 GLAM institutions are partially closed, have restricted services, or cancelled events
+🛑 103 GLAM institutions are completely closed  
+⚠️ 84 GLAM institutions are partially closed, have restricted services, or cancelled events
 
 * [ACT](#act)
 * [New South Wales](#nsw)
@@ -677,6 +677,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ### Port Phillip Library Service
 
+* 🛑 20 March 2020 – All branches closed until further notice. [More info...](https://library.portphillip.vic.gov.au/Home)
 * ⚠️ 17 March 2020 – All scheduled programs and planned group activities are suspended for the next 30 days. [More info...](https://library.portphillip.vic.gov.au/Home)
 
 ### Public Record Office Victoria
