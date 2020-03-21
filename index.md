@@ -6,8 +6,8 @@ Things are changing rapidly, so check the links next to each update for current 
 
 **Current totals:**
 
-🛑 97 GLAM institutions are completely closed  
-⚠️ 85 GLAM institutions are partially closed, have restricted services, or cancelled events
+🛑 101 GLAM institutions are completely closed  
+⚠️ 86 GLAM institutions are partially closed, have restricted services, or cancelled events
 
 * [ACT](#act)
 * [New South Wales](#nsw)
@@ -468,6 +468,10 @@ For more information on closures of state-owned cultural institutions in Victori
 ### Australian Army Tank Museum
 
 * 🛑 17 March 2020 – Closed from 18 March for at least 30 days. Open day on 21 March is cancelled. [More info...](http://www.australianarmytankmuseum.com.au/)
+
+### Australian Lesbian and Gay Archives
+
+* 🛑 20 March 2020 – Closed and unable to facilitate visits to the ALGA Reading Room over the coming month. [More info...](https://twitter.com/ALGArchives/status/1240940735282597888)
 
 ### Australian Sports Museum
 
