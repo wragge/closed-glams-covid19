@@ -465,6 +465,10 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 🛑 17 March 2020 – Closed from 18 March for at least 30 days. Open day on 21 March is cancelled. [More info...](http://www.australianarmytankmuseum.com.au/)
 
+### Australian Lesbian and Gay Archives
+
+* 🛑 20 March 2020 – Closed and unable to facilitate visits to the ALGA Reading Room over the coming month. [More info...](https://twitter.com/ALGArchives/status/1240940735282597888)
+
 ### Australian Sports Museum
 
 * 🛑 16 March – The museum, library, and MCG tours are closed until further notice. [More info...](https://www.australiansportsmuseum.org.au/)
