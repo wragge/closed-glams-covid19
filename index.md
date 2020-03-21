@@ -545,6 +545,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ### Frankston City Libraries
 
+* 🛑 20 March 2020 – Libraries closed until further notice. [More info...](https://library.frankston.vic.gov.au/Locations_and_Hours)
 * ⚠️ 17 March 2020 – All library events and programming suspended until 13 April 2020. [More info...](https://library.frankston.vic.gov.au/Home/Announcements/Events_Suspended)
 * ⚠️ 16 March 2020 – Today's Storytime and Code Club cancelled. [More info...](https://library.frankston.vic.gov.au/Whats_On/Today_Monday_16th_March_2020)
 
@@ -819,7 +820,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 20 March 2020, 6:05pm.
+Last updated 21 March 2020, 5:57pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
