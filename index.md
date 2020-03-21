@@ -6,8 +6,8 @@ Things are changing rapidly, so check the links next to each update for current 
 
 **Current totals:**
 
-🛑 103 GLAM institutions are completely closed  
-⚠️ 84 GLAM institutions are partially closed, have restricted services, or cancelled events
+🛑 104 GLAM institutions are completely closed  
+⚠️ 83 GLAM institutions are partially closed, have restricted services, or cancelled events
 
 * [ACT](#act)
 * [New South Wales](#nsw)
@@ -438,6 +438,7 @@ Things are changing rapidly, so check the links next to each update for current 
 
 ### Port Arthur Historic Site
 
+* 🛑 20 March 2020 –  Site, visitor centre, and restaurant are closed. All tours suspended indefinitely. [More info...](https://portarthur.org.au/novel-coronavirus-covid-19/)
 * ⚠️ 17 March 2020 - Site is open but providing updates to visitors and have advised that they are not currently taking cash payments. [More info...](https://portarthur.org.au/novel-coronavirus-covid-19/)
 
 ### Queen Victoria Museum and Art Gallery
@@ -822,7 +823,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 21 March 2020, 5:57pm.
+Last updated 21 March 2020, 6:09pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
