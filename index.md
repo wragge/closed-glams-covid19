@@ -534,10 +534,12 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ### City of Melbourne Public Libraries
 
+* 🛑 17 March 2020 - Closed. [More info...](https://www.melbourne.vic.gov.au/community/libraries/Pages/libraries.aspx)
 * 🛑 16 March 2020 – Public libraries closed including City Library in Flinders Lane, Kathleen Syme in Carlton, Library at The Dock in Docklands, East Melbourne, North Melbourne and Southbank Library at Boyd. [More info...](https://www.melbourne.vic.gov.au/news-and-media/Pages/Temporary-closure-of-some-Council-facilities.aspx)
 
 ### City of Moonee Valley Libraries
 
+* 🛑 17 March 2020 - Temporary closure and program cancellations. [More info...](https://mvcc.vic.gov.au/play/my-experience/libraries/)
 * 🛑 16 March 2020 – Public libraries closed including Ascot Vale, Flemington, Niddrie, Sam Merrifield, Avondale Heights. [More info...](https://mvcc.vic.gov.au/covid-19/)
 
 ### Dalton McCaughey Library
@@ -623,10 +625,6 @@ For more information on closures of state-owned cultural institutions in Victori
 
 * 🛑 17 March 2020 - Closed. [More info...](https://www.maribyrnong.vic.gov.au/library/Home)
 
-### Melbourne Libraries
-
-* 🛑 17 March 2020 - Closed. [More info...](https://www.melbourne.vic.gov.au/community/libraries/Pages/libraries.aspx)
-
 ### Melbourne Tram Museum
 
 * 🛑 17 March 2020 – Closed until further notice. [More info...](http://hawthorntramdepot.org.au/news/20200317.htm)
@@ -646,10 +644,6 @@ For more information on closures of state-owned cultural institutions in Victori
 ### Monash Public Library Service
 
 * ⚠️ 17 March 2020 – Branches are open, but program has been modified and some events cancelled. [More info...](https://www.monlib.vic.gov.au/About-Us/News-Listing/Update-to-community-regarding-library-services)
-
-### Moonee Libraries
-
-* 🛑 17 March 2020 - Temporary closure and program cancellations. [More info...](https://mvcc.vic.gov.au/play/my-experience/libraries/)
 
 ### Moreland City Council Libraries
 
