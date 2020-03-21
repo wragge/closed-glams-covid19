@@ -6,8 +6,8 @@ Things are changing rapidly, so check the links next to each update for current 
 
 **Current totals:**
 
-🛑 105 GLAM institutions are completely closed  
-⚠️ 83 GLAM institutions are partially closed, have restricted services, or cancelled events
+🛑 106 GLAM institutions are completely closed  
+⚠️ 82 GLAM institutions are partially closed, have restricted services, or cancelled events
 
 * [ACT](#act)
 * [New South Wales](#nsw)
@@ -196,10 +196,6 @@ Things are changing rapidly, so check the links next to each update for current 
 
 * 🛑 19 March 2020 - All library branches will close from noon on 21 March 2020 until further notice. [More info...](https://www.frasercoast.qld.gov.au/libraries)
 
-### Gympie Regional Libraries
-
-* ⚠️ 19 March 2020 - All programs, events and outreach programs are cancelled until further notice. [More info...](https://www.gympie.qld.gov.au/web/library/home/-/asset_publisher/Tlmt50DjrBdQ/content/gympie-regional-libraries-have-cancelled-all-programs-events-and-outreach-services)
-
 ### Gladstone Regional Libraries
 
 * ⚠️ 19 March 2020 - All public programs cancelled until 1 June 2020. [More info...](http://www.gladstonelibraries.qld.gov.au/)
@@ -207,6 +203,11 @@ Things are changing rapidly, so check the links next to each update for current 
 ### Gold Coast Libraries
 
 * ⚠️ 19 March 2020 - All library programs and events cancelled until further notice. [More info...](http://www.goldcoast.qld.gov.au/library/default.html)
+
+### Gympie Regional Libraries
+
+* 🛑 21 March 2020 – All libraries closed from Monday 23 March until further notice. [Via FB](https://www.facebook.com/GRLibraries/posts/1625958300877454)
+* ⚠️ 19 March 2020 - All programs, events and outreach programs are cancelled until further notice. [More info...](https://www.gympie.qld.gov.au/web/library/home/-/asset_publisher/Tlmt50DjrBdQ/content/gympie-regional-libraries-have-cancelled-all-programs-events-and-outreach-services)
 
 ### HOTA
 
@@ -822,7 +823,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 21 March 2020, 6:19pm.
+Last updated 21 March 2020, 9:58pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
