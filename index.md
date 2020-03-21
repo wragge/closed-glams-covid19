@@ -7,7 +7,7 @@ Things are changing rapidly, so check the links next to each update for current 
 **Current totals:**
 
 🛑 105 GLAM institutions are completely closed  
-⚠️ 82 GLAM institutions are partially closed, have restricted services, or cancelled events
+⚠️ 83 GLAM institutions are partially closed, have restricted services, or cancelled events
 
 * [ACT](#act)
 * [New South Wales](#nsw)
@@ -106,6 +106,10 @@ Things are changing rapidly, so check the links next to each update for current 
 ### Fighter World Aviation Museum
 
 * 🛑 16 March 2020 – Closed until further notice. [More info...](https://www.fighterworld.com.au/fighter-world-closed)
+
+### Inner West Libraries
+
+* ⚠️ 20 March 2020 – Branches closed: Emanuel Tsardoulias Community Library (Dulwich Hill), Haberfield Library, Stanmore Library, St Peters Library. Other branches open with reduced hours and services. [More info...]()
 
 ### Manly Art Gallery & Museum
 
@@ -824,7 +828,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 21 March 2020, 6:09pm.
+Last updated 21 March 2020, 6:19pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
