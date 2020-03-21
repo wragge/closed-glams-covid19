@@ -6,8 +6,8 @@ Things are changing rapidly, so check the links next to each update for current 
 
 **Current totals:**
 
-🛑 104 GLAM institutions are completely closed  
-⚠️ 83 GLAM institutions are partially closed, have restricted services, or cancelled events
+🛑 105 GLAM institutions are completely closed  
+⚠️ 82 GLAM institutions are partially closed, have restricted services, or cancelled events
 
 * [ACT](#act)
 * [New South Wales](#nsw)
@@ -727,11 +727,8 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ### Whitehorse Manningham Libraries
 
+* 🛑 20 March 2020 – All branches closed from 5pm, 21 March. [More info...](http://www.wml.vic.gov.au/coronavirus)
 * ⚠️ 17 March 2020 – Branches remain open, but all programs and events have been suspended. [More info...](http://www.wml.vic.gov.au/coronavirus)
-
-### Wodonga Libraries
-
-* ⚠️ 16 March 2020 - Select programs cancelled or suspended until further notice. [More info...](https://www.wodonga.vic.gov.au/Whats-On/At-Wodonga-Library)
 
 ### West Gippsland Libraries
 
@@ -740,6 +737,10 @@ For more information on closures of state-owned cultural institutions in Victori
 ### Wimmera Regional Library Corporation
 
 * 🛑 17 March 2020 – St Arnaud & Stawell Libraries closed from 18 March.  Dimboola & Nhill Libraries closed from 19 March. All library programs cancelled. [More info...](https://wrlc.libsvic.ent.sirsidynix.net.au/client/en_AU/wrlc/)
+
+### Wodonga Libraries
+
+* ⚠️ 16 March 2020 - Select programs cancelled or suspended until further notice. [More info...](https://www.wodonga.vic.gov.au/Whats-On/At-Wodonga-Library)
 
 ### Wyndham City Libraries
 
