@@ -6,8 +6,8 @@ Things are changing rapidly, so check the links next to each update for current 
 
 **Current totals:**
 
-🛑 97 GLAM institutions are completely closed  
-⚠️ 85 GLAM institutions are partially closed, have restricted services, or cancelled events
+🛑 101 GLAM institutions are completely closed  
+⚠️ 87 GLAM institutions are partially closed, have restricted services, or cancelled events
 
 * [ACT](#act)
 * [New South Wales](#nsw)
