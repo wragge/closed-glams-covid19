@@ -6,8 +6,8 @@ Things are changing rapidly, so check the links next to each update for current 
 
 **Current totals:**
 
-🛑 107 GLAM institutions are completely closed  
-⚠️ 81 GLAM institutions are partially closed, have restricted services, or cancelled events
+🛑 108 GLAM institutions are completely closed  
+⚠️ 80 GLAM institutions are partially closed, have restricted services, or cancelled events
 
 * [ACT](#act)
 * [New South Wales](#nsw)
@@ -49,6 +49,7 @@ Things are changing rapidly, so check the links next to each update for current 
 
 ### National Gallery of Australia
 
+* 🛑 23 March 2020 – Closed until further notice. [More info...](https://nga.gov.au/covid-19/)
 * ⚠️ 16 March 2020 –  Gallery is open, but public programs, education and members events have been suspended. [More info...](https://nga.gov.au/covid-19/)
 
 ### National Library of Australia
@@ -824,7 +825,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 22 March 2020, 4:53pm.
+Last updated 23 March 2020, 9:46am.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
