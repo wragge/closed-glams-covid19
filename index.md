@@ -6,8 +6,8 @@ Things are changing rapidly, so check the links next to each update for current 
 
 **Current totals:**
 
-🛑 112 GLAM institutions are completely closed  
-⚠️ 76 GLAM institutions are partially closed, have restricted services, or cancelled events
+🛑 113 GLAM institutions are completely closed  
+⚠️ 75 GLAM institutions are partially closed, have restricted services, or cancelled events
 
 * [ACT](#act)
 * [New South Wales](#nsw)
@@ -41,6 +41,7 @@ Things are changing rapidly, so check the links next to each update for current 
 
 ### National Archives of Australia
 
+* 🛑 23 March 2020 – All buildings closed from 5pm on 23 March. [More info...](https://www.naa.gov.au/visitor-update-covid-19)
 * ⚠️ 20 March 2020 – SA research centre closed. Research centres in NSW and Melbourne closed from 23 March. [More info...](https://www.naa.gov.au/visitor-update-covid-19)
 * ⚠️ 17 March 2020 – National and state offices remain open, but public events and talks, education programs, school holiday programs, and tours have been suspended. [More info...](https://www.naa.gov.au/visitor-update-coronavirus)
 
