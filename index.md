@@ -6,8 +6,8 @@ Things are changing rapidly, so check the links next to each update for current 
 
 **Current totals:**
 
-🛑 117 GLAM institutions are completely closed  
-⚠️ 71 GLAM institutions are partially closed, have restricted services, or cancelled events
+🛑 118 GLAM institutions are completely closed  
+⚠️ 70 GLAM institutions are partially closed, have restricted services, or cancelled events
 
 * [ACT](#act)
 * [New South Wales](#nsw)
@@ -809,6 +809,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ### State Records Office of Western Australia
 
+* 🛑 23 March 2020 – Closed until further notice. [More info...](http://sro.wa.gov.au/sro-closed)
 * ⚠️ 19 March 2020 - Currently open as usual but restricts time in search room to 2 hours and 2 meters or more from each other. [More info...](https://twitter.com/StateRecordsWA/status/1240477149779218432) 
 
 ### Town of Victoria Park
