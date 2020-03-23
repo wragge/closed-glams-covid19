@@ -6,7 +6,7 @@ Things are changing rapidly, so check the links next to each update for current 
 
 **Current totals:**
 
-🛑 121 GLAM institutions are completely closed  
+🛑 122 GLAM institutions are completely closed  
 ⚠️ 67 GLAM institutions are partially closed, have restricted services, or cancelled events
 
 * [ACT](#act)
@@ -204,6 +204,10 @@ Things are changing rapidly, so check the links next to each update for current 
 ### Fraser Coast Libraries
 
 * 🛑 19 March 2020 - All library branches will close from noon on 21 March 2020 until further notice. [More info...](https://www.frasercoast.qld.gov.au/libraries)
+
+### Gallery of Modern Art
+
+* 🛑 23 March 2020 - Gallery is closed until further notice. [More info...](https://www.qagoma.qld.gov.au/visit/plan-your-visit)
 
 ### Gladstone Regional Libraries
 
@@ -839,7 +843,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 23 March 2020, 4:23pm.
+Last updated 23 March 2020, 5:31pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
