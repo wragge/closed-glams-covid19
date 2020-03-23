@@ -6,8 +6,8 @@ Things are changing rapidly, so check the links next to each update for current 
 
 **Current totals:**
 
-🛑 120 GLAM institutions are completely closed  
-⚠️ 68 GLAM institutions are partially closed, have restricted services, or cancelled events
+🛑 121 GLAM institutions are completely closed  
+⚠️ 67 GLAM institutions are partially closed, have restricted services, or cancelled events
 
 * [ACT](#act)
 * [New South Wales](#nsw)
@@ -820,6 +820,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ### Western Australian Museum
 
+* 🛑 23 March 2020 – Closed until further notice. [More info...](https://museum.wa.gov.au/about/covid-19)
 * ⚠️ 16 March 2020 – The submarine HMAS Ovens is closed to the public. [More info...](http://museum.wa.gov.au/about/covid-19)
 
 ## Other
@@ -838,7 +839,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 23 March 2020, 3:50pm.
+Last updated 23 March 2020, 4:23pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
