@@ -6,8 +6,8 @@ Things are changing rapidly, so check the links next to each update for current 
 
 **Current totals:**
 
-🛑 110 GLAM institutions are completely closed  
-⚠️ 78 GLAM institutions are partially closed, have restricted services, or cancelled events
+🛑 111 GLAM institutions are completely closed  
+⚠️ 77 GLAM institutions are partially closed, have restricted services, or cancelled events
 
 * [ACT](#act)
 * [New South Wales](#nsw)
@@ -111,6 +111,7 @@ Things are changing rapidly, so check the links next to each update for current 
 
 ### Inner West Libraries
 
+* 🛑 23 March 2020 – Closed until further notice. [More info...](https://www.innerwest.nsw.gov.au/explore/libraries?ref=quicklinks)
 * ⚠️ 20 March 2020 – Branches closed: Emanuel Tsardoulias Community Library (Dulwich Hill), Haberfield Library, Stanmore Library, St Peters Library. Other branches open with reduced hours and services. [More info...]()
 
 ### Manly Art Gallery & Museum
@@ -127,7 +128,7 @@ Things are changing rapidly, so check the links next to each update for current 
 
 ### NSW State Archives & Records
 
-* 23 March 2020 – Closed from 24 March until further notice. [More info...](https://www.records.nsw.gov.au/news/update-covid-19)
+* 🛑 23 March 2020 – Closed from 24 March until further notice. [More info...](https://www.records.nsw.gov.au/news/update-covid-19)
 * ⚠️ 18 March 2020 – The Western Sydney Records Centre reading room currently remains open to the public. [More info...](https://www.records.nsw.gov.au/archives/magazine/update-covid-19)
 
 ### Powerhouse Museum (MAAS)
