@@ -6,8 +6,8 @@ Things are changing rapidly, so check the links next to each update for current 
 
 **Current totals:**
 
-🛑 119 GLAM institutions are completely closed  
-⚠️ 69 GLAM institutions are partially closed, have restricted services, or cancelled events
+🛑 120 GLAM institutions are completely closed  
+⚠️ 68 GLAM institutions are partially closed, have restricted services, or cancelled events
 
 * [ACT](#act)
 * [New South Wales](#nsw)
@@ -161,6 +161,7 @@ Things are changing rapidly, so check the links next to each update for current 
 
 ### Sydney Living Museums
 
+* 🛑 23 March 2020 – Closed until further notice. [More info...](https://sydneylivingmuseums.com.au/2020/03/16/update-covid-19)
 * ⚠️ 16 March 2020 – Museums and historic houses remain open, but all public programming has been suspended until 26 April. [More info...](https://sydneylivingmuseums.com.au/2020/03/16/update-covid-19)
 
 ### Temora Aviation Museum
