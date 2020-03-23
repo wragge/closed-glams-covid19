@@ -6,8 +6,8 @@ Things are changing rapidly, so check the links next to each update for current 
 
 **Current totals:**
 
-🛑 121 GLAM institutions are completely closed  
-⚠️ 67 GLAM institutions are partially closed, have restricted services, or cancelled events
+🛑 126 GLAM institutions are completely closed  
+⚠️ 62 GLAM institutions are partially closed, have restricted services, or cancelled events
 
 * [ACT](#act)
 * [New South Wales](#nsw)
@@ -333,6 +333,7 @@ Things are changing rapidly, so check the links next to each update for current 
 
 ### History Trust of South Australia
 
+* 🛑 23 March 2020  - Closed until further notice. [More info...](https://history.sa.gov.au/covid-19-information-and-updates/covid-19-update-museum-closures/)
 * ⚠️ 18 March 2020 - Suspending all education and public programs until further notice at the History Trust of SA and its four museums. [More info...](https://history.sa.gov.au/coronavirus-covid-19-update/)
 
 ### Kapunda Library
@@ -341,6 +342,7 @@ Things are changing rapidly, so check the links next to each update for current 
 
 ### Migration Museum
 
+* 🛑 23 March 2020  - Closed until further notice. [More info...](https://migration.history.sa.gov.au/coronavirus-covid-19-update/)
 * ⚠️ 18 March 2020 - Open but are suspending all education and public programs until further notice. [More info...](https://migration.history.sa.gov.au/coronavirus-covid-19-update/) 
 
 ### Millicent Library and Gallery
@@ -362,6 +364,7 @@ Things are changing rapidly, so check the links next to each update for current 
 
 ### National Motor Museum
 
+* 🛑 23 March 2020  - Closed until further notice. [More info...](https://motor.history.sa.gov.au/coronavirus-covid-19-update/)
 * ⚠️ 18 March 2020 - Open but are suspending all education and public programs until further notice. [More info...](https://motor.history.sa.gov.au/coronavirus-covid-19-update/)
 
 ### National Railway Museum
@@ -387,6 +390,7 @@ Things are changing rapidly, so check the links next to each update for current 
 
 ### South Australian Maritime Museum
 
+* 🛑 23 March 2020  - Closed until further notice. [More info...](https://maritime.history.sa.gov.au/coronavirus-covid-19-update/)
 * ⚠️ 18 March 2020 - Open but are suspending all education and public programs until further notice. [More info...](https://maritime.history.sa.gov.au/coronavirus-covid-19-update/)
 
 ### South Australian Museum
@@ -426,6 +430,7 @@ Things are changing rapidly, so check the links next to each update for current 
 
 ### The Centre of Democracy
 
+* 🛑 23 March 2020  - Closed until further notice. [More info...](http://centreofdemocracy.sa.gov.au/visit/)
 * ⚠️ 18 March 2020 - Open, but are suspending all staff education and public programs until further notice. [More info...](http://centreofdemocracy.sa.gov.au/coronavirus-covid-19-update/)
 
 ## Tasmania
@@ -839,7 +844,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 23 March 2020, 4:23pm.
+Last updated 23 March 2020, 7:32pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
