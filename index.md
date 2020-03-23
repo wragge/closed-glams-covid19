@@ -6,7 +6,7 @@ Things are changing rapidly, so check the links next to each update for current 
 
 **Current totals:**
 
-🛑 134 GLAM institutions are completely closed  
+🛑 135 GLAM institutions are completely closed  
 ⚠️ 53 GLAM institutions are partially closed, have restricted services, or cancelled events
 
 * [ACT](#act)
@@ -25,6 +25,10 @@ Things are changing rapidly, so check the links next to each update for current 
 ### AIATSIS
 
 * 🛑 17 March 2020 – Stanner Reading Room closed. No public access, appointments, visits or tours available until 30 June 2020. [More info...](https://aiatsis.gov.au/news-and-events/news/stanner-reading-room-closed)
+
+### Australian War Memorial
+
+* 🛑 23 March 2020 – Closed until further notice. [More info...](https://www.awm.gov.au/media/press-releases/memorialclosure)
 
 ### Canberra Museum and Gallery
 
@@ -858,7 +862,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 23 March 2020, 8:19pm.
+Last updated 23 March 2020, 9:04pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
