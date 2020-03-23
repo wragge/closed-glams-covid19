@@ -6,8 +6,8 @@ Things are changing rapidly, so check the links next to each update for current 
 
 **Current totals:**
 
-🛑 133 GLAM institutions are completely closed  
-⚠️ 54 GLAM institutions are partially closed, have restricted services, or cancelled events
+🛑 134 GLAM institutions are completely closed  
+⚠️ 53 GLAM institutions are partially closed, have restricted services, or cancelled events
 
 * [ACT](#act)
 * [New South Wales](#nsw)
@@ -57,6 +57,7 @@ Things are changing rapidly, so check the links next to each update for current 
 
 ### National Library of Australia
 
+* 🛑 23 March 2020 – Closed until further notice. [More info...](https://www.nla.gov.au/stories/news/2020/03/23/temporary-building-closure)
 * ⚠️ 20 March 2020 – Library will close at 5pm each day. Public areas on Levels 3 and 4 are closed. Reduced computers available. [More info...](https://www.nla.gov.au/stories/news/2020/03/20/vistor-update-covid-19)
 * ⚠️ 16 March 2020 – Library is open, but onsite public programs have been suspended. [More info...](https://www.nla.gov.au/stories/news/2020/03/16/visitor-update-covid-19)
 
