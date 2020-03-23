@@ -6,8 +6,8 @@ Things are changing rapidly, so check the links next to each update for current 
 
 **Current totals:**
 
-🛑 109 GLAM institutions are completely closed  
-⚠️ 79 GLAM institutions are partially closed, have restricted services, or cancelled events
+🛑 110 GLAM institutions are completely closed  
+⚠️ 78 GLAM institutions are partially closed, have restricted services, or cancelled events
 
 * [ACT](#act)
 * [New South Wales](#nsw)
@@ -127,6 +127,7 @@ Things are changing rapidly, so check the links next to each update for current 
 
 ### NSW State Archives & Records
 
+* 23 March 2020 – Closed from 24 March until further notice. [More info...](https://www.records.nsw.gov.au/news/update-covid-19)
 * ⚠️ 18 March 2020 – The Western Sydney Records Centre reading room currently remains open to the public. [More info...](https://www.records.nsw.gov.au/archives/magazine/update-covid-19)
 
 ### Powerhouse Museum (MAAS)
@@ -826,7 +827,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 23 March 2020, 2:16pm.
+Last updated 23 March 2020, 3:20pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
