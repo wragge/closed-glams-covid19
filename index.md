@@ -6,8 +6,8 @@ Things are changing rapidly, so check the links next to each update for current 
 
 **Current totals:**
 
-🛑 121 GLAM institutions are completely closed  
-⚠️ 67 GLAM institutions are partially closed, have restricted services, or cancelled events
+🛑 124 GLAM institutions are completely closed  
+⚠️ 65 GLAM institutions are partially closed, have restricted services, or cancelled events
 
 * [ACT](#act)
 * [New South Wales](#nsw)
@@ -283,6 +283,8 @@ Things are changing rapidly, so check the links next to each update for current 
 ### State Library of Queensland
 
 * ⚠️ 17 March 2020 – Library remains open, but all public events and programs have been cancelled until further notice. [More info...](https://www.slq.qld.gov.au/alerts)
+
+* 🛑 23 March 2020 - Library is closed until further notice. [More info...](https://www.slq.qld.gov.au/alerts)
 
 ### Toowoomba Regional Libraries
 
@@ -839,7 +841,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 23 March 2020, 4:23pm.
+Last updated 23 March 2020, 5:37pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
