@@ -6,8 +6,8 @@ Things are changing rapidly, so check the links next to each update for current 
 
 **Current totals:**
 
-🛑 114 GLAM institutions are completely closed  
-⚠️ 74 GLAM institutions are partially closed, have restricted services, or cancelled events
+🛑 115 GLAM institutions are completely closed  
+⚠️ 73 GLAM institutions are partially closed, have restricted services, or cancelled events
 
 * [ACT](#act)
 * [New South Wales](#nsw)
@@ -608,6 +608,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ### Hume Library Service
 
+* 🛑 23 March 2020 – Closed until further notice. [More info...](https://www.hume.vic.gov.au/What39s_On_amp_Things_To_Do/Latest_News/Coronavirus_COVID-19#Libraries)
 * ⚠️ 17 March 2020 - Suspended delivery from 5pm 17 March of all library programs, events and outreach services, including HLS.                               Gladstone Park, Tullamarine and Mobile library service closed. [More info...](https://www.humelibraries.vic.gov.au/Whats_On/Latest_News/Important_Information_-_COVID-19_Update) 
 
 ### Indigo Shire Libraries
