@@ -135,6 +135,7 @@ Things are changing rapidly, so check the links next to each update for current 
 
 ### Powerhouse Museum (MAAS)
 
+* 🛑 23 March 2020 – Closed until further notice. [More info...](https://maas.museum/coronavirus-information/)
 * ⚠️ 16 March 2020 – Public and exhibition spaces are open, but public and education programs have been cancelled. [More info...](https://maas.museum/coronavirus-information/)
 
 ### Randwick City Libraries
