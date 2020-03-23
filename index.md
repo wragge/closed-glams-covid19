@@ -6,8 +6,8 @@ Things are changing rapidly, so check the links next to each update for current 
 
 **Current totals:**
 
-🛑 130 GLAM institutions are completely closed  
-⚠️ 57 GLAM institutions are partially closed, have restricted services, or cancelled events
+🛑 131 GLAM institutions are completely closed  
+⚠️ 56 GLAM institutions are partially closed, have restricted services, or cancelled events
 
 * [ACT](#act)
 * [New South Wales](#nsw)
@@ -28,6 +28,7 @@ Things are changing rapidly, so check the links next to each update for current 
 
 ### Canberra Museum and Gallery
 
+* 🛑 23 March 2020 – Closed until further notice. [More info...](https://www.cmag.com.au/events/covid-19-advice)
 * ⚠️ 18 March 2020 – Museums remains open, but all scheduled community and learning programs have been cancelled until 19 April. [More info...](http://www.cmag.com.au/events/covid-19-advice)
 
 ### Libraries ACT
