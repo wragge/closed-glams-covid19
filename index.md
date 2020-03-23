@@ -6,8 +6,8 @@ Things are changing rapidly, so check the links next to each update for current 
 
 **Current totals:**
 
-🛑 118 GLAM institutions are completely closed  
-⚠️ 70 GLAM institutions are partially closed, have restricted services, or cancelled events
+🛑 119 GLAM institutions are completely closed  
+⚠️ 69 GLAM institutions are partially closed, have restricted services, or cancelled events
 
 * [ACT](#act)
 * [New South Wales](#nsw)
@@ -749,6 +749,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ### Wodonga Libraries
 
+* 🛑 23 March 2020 – Closed from 6pm 23 Mrach until further notice. [More info...](https://www.wodongalibrary.com.au/visit/Community%20information.asp)
 * ⚠️ 16 March 2020 - Select programs cancelled or suspended until further notice. [More info...](https://www.wodonga.vic.gov.au/Whats-On/At-Wodonga-Library)
 
 ### Wyndham City Libraries
