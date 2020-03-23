@@ -6,8 +6,8 @@ Things are changing rapidly, so check the links next to each update for current 
 
 **Current totals:**
 
-🛑 115 GLAM institutions are completely closed  
-⚠️ 73 GLAM institutions are partially closed, have restricted services, or cancelled events
+🛑 117 GLAM institutions are completely closed  
+⚠️ 71 GLAM institutions are partially closed, have restricted services, or cancelled events
 
 * [ACT](#act)
 * [New South Wales](#nsw)
@@ -770,6 +770,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ### Art Gallery Western Australia
 
+* 🛑 23 March 2020 – Closed until further notice. [More info...](https://artgallery.wa.gov.au/covid-19)
 * ⚠️ 18 March 2020 – Events of more than 100 people are cancelled. Programs delivered by independent volunteer groups are suspended until further notice. [More info...](https://artgallery.wa.gov.au/covid-19)
 * ⚠️ 17 March 2020 – Remains open. [More info...](https://artgallery.wa.gov.au/covid-19)
 
@@ -803,6 +804,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ### State Library of Western Australia
 
+* 🛑 23 March 2020 – Closed until further notice. [More info...](https://www.slwa.wa.gov.au/news/your-source-truth-covid-19)
 * ⚠️ 17 March 2020 - Remains open. [More info...](https://www.slwa.wa.gov.au/news/your-source-truth-covid-19)
 
 ### State Records Office of Western Australia
