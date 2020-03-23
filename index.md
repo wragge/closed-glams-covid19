@@ -6,8 +6,8 @@ Things are changing rapidly, so check the links next to each update for current 
 
 **Current totals:**
 
-🛑 121 GLAM institutions are completely closed  
-⚠️ 67 GLAM institutions are partially closed, have restricted services, or cancelled events
+🛑 126 GLAM institutions are completely closed  
+⚠️ 64 GLAM institutions are partially closed, have restricted services, or cancelled events
 
 * [ACT](#act)
 * [New South Wales](#nsw)
@@ -256,7 +256,9 @@ Things are changing rapidly, so check the links next to each update for current 
 
 ### Queensland Art Gallery
 
-* ⚠️ 17 March 2020 - Museum is open, but all public programs, events and tours have been cancelled until further notice. [More info...](https://www.qagoma.qld.gov.au/visit/plan-your-visit)
+* ⚠️ 17 March 2020 - Gallery is open, but all public programs, events and tours have been cancelled until further notice. [More info...](https://www.qagoma.qld.gov.au/visit/plan-your-visit)
+
+* 🛑 23 March 2020 - Gallery is closed until further notice. [More info...](https://www.qagoma.qld.gov.au/visit/plan-your-visit)
 
 ### Queensland Museum
 
@@ -839,7 +841,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 23 March 2020, 4:23pm.
+Last updated 23 March 2020, 5:45pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
