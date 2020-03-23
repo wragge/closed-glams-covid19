@@ -6,8 +6,8 @@ Things are changing rapidly, so check the links next to each update for current 
 
 **Current totals:**
 
-🛑 132 GLAM institutions are completely closed  
-⚠️ 55 GLAM institutions are partially closed, have restricted services, or cancelled events
+🛑 133 GLAM institutions are completely closed  
+⚠️ 54 GLAM institutions are partially closed, have restricted services, or cancelled events
 
 * [ACT](#act)
 * [New South Wales](#nsw)
@@ -67,6 +67,7 @@ Things are changing rapidly, so check the links next to each update for current 
 
 ### National Portrait Gallery
 
+* 🛑 23 March 2020 – Closed until further notice. [More info...](https://www.portrait.gov.au//)
 * ⚠️ 16 March 2020 – Gallery is open, but public programs, education activities, and events have been cancelled. [More info...](https://www.portrait.gov.au//content/event-cancellations)
 
 ## NSW
