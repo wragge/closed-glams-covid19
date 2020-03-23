@@ -6,8 +6,8 @@ Things are changing rapidly, so check the links next to each update for current 
 
 **Current totals:**
 
-🛑 131 GLAM institutions are completely closed  
-⚠️ 56 GLAM institutions are partially closed, have restricted services, or cancelled events
+🛑 132 GLAM institutions are completely closed  
+⚠️ 55 GLAM institutions are partially closed, have restricted services, or cancelled events
 
 * [ACT](#act)
 * [New South Wales](#nsw)
@@ -89,6 +89,7 @@ Things are changing rapidly, so check the links next to each update for current 
 
 ### Australian National Maritime Museum
 
+* 🛑 23 March 2020 – Closed until further notice. [More info...](https://www.sea.museum/covid-19-update)
 * ⚠️ 20 March 2020 - Permanent galleries and current exhibitions remain open at present. Temporarily suspended all public programs and events through to April 31st 2020 inclusive. [More info...](https://www.sea.museum/covid-19-update)
 * ⚠️ 15 March 2020 – Museum is open, but vessels, 3D cinema, and Kids on Deck are closed until further notice. [More info...](https://www.sea.museum/visit/availability)
 
@@ -855,7 +856,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 23 March 2020, 7:32pm.
+Last updated 23 March 2020, 8:19pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
