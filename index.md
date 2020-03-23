@@ -6,8 +6,8 @@ Things are changing rapidly, so check the links next to each update for current 
 
 **Current totals:**
 
-🛑 113 GLAM institutions are completely closed  
-⚠️ 75 GLAM institutions are partially closed, have restricted services, or cancelled events
+🛑 114 GLAM institutions are completely closed  
+⚠️ 74 GLAM institutions are partially closed, have restricted services, or cancelled events
 
 * [ACT](#act)
 * [New South Wales](#nsw)
@@ -648,6 +648,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ### Mitchell Shire Council Libraries
 
+* 🛑 23 March 2020 – Closed. [More info...](https://www.mitchellshire.vic.gov.au/news/corona-service-status)
 * ⚠️ 17 March 2020 - Suspended all programs and events and outreach. [More info...](https://www.mitchellshire.vic.gov.au/news/corona-service-status)
 
 ### Monash Public Library Service
@@ -831,7 +832,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 23 March 2020, 3:20pm.
+Last updated 23 March 2020, 3:50pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
