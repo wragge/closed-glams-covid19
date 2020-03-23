@@ -6,7 +6,7 @@ Things are changing rapidly, so check the links next to each update for current 
 
 **Current totals:**
 
-🛑 121 GLAM institutions are completely closed  
+🛑 125 GLAM institutions are completely closed  
 ⚠️ 67 GLAM institutions are partially closed, have restricted services, or cancelled events
 
 * [ACT](#act)
@@ -192,6 +192,10 @@ Things are changing rapidly, so check the links next to each update for current 
 ### Australian Army Flying Museum
 
 * 🛑 17 March 2020 - Closed until further notice. [More info...](http://www.armyflyingmuseum.com.au/#intro)
+
+### Brisbane City Council Libraries
+
+* 🛑 21 March 2020 - All library branches closed from 23 March 2020. [More info...](https://www.brisbane.qld.gov.au/community-and-safety/community-safety/disasters-and-emergencies/coronavirus-council-updates-and-impacts/all-brisbane-libraries-to-close-to-customers-but-online-services-to-continue)
 
 ### Bundaberg Regional Libraries
 
@@ -839,7 +843,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 23 March 2020, 4:23pm.
+Last updated 23 March 2020, 5:41pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
