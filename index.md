@@ -193,6 +193,10 @@ Things are changing rapidly, so check the links next to each update for current 
 
 * 🛑 17 March 2020 - Closed until further notice. [More info...](http://www.armyflyingmuseum.com.au/#intro)
 
+### Brisbane City Council Libraries
+
+* 🛑 21 March 2020 - All library branches closed from 23 March 2020. [More info...](https://www.brisbane.qld.gov.au/community-and-safety/community-safety/disasters-and-emergencies/coronavirus-council-updates-and-impacts/all-brisbane-libraries-to-close-to-customers-but-online-services-to-continue)
+
 ### Bundaberg Regional Libraries
 
 * ⚠️ 18 March 2020 - All programs and events at all library branches are cancelled until the end of May. [More info...](https://www.artsbundaberg.com.au/libraries/events)
@@ -204,6 +208,10 @@ Things are changing rapidly, so check the links next to each update for current 
 ### Fraser Coast Libraries
 
 * 🛑 19 March 2020 - All library branches will close from noon on 21 March 2020 until further notice. [More info...](https://www.frasercoast.qld.gov.au/libraries)
+
+### Gallery of Modern Art
+
+* 🛑 23 March 2020 - Gallery is closed until further notice. [More info...](https://www.qagoma.qld.gov.au/visit/plan-your-visit)
 
 ### Gladstone Regional Libraries
 
@@ -256,14 +264,13 @@ Things are changing rapidly, so check the links next to each update for current 
 
 ### Queensland Art Gallery
 
-* ⚠️ 17 March 2020 - Gallery is open, but all public programs, events and tours have been cancelled until further notice. [More info...](https://www.qagoma.qld.gov.au/visit/plan-your-visit)
-
 * 🛑 23 March 2020 - Gallery is closed until further notice. [More info...](https://www.qagoma.qld.gov.au/visit/plan-your-visit)
+* ⚠️ 17 March 2020 - Gallery is open, but all public programs, events and tours have been cancelled until further notice. [More info...](https://www.qagoma.qld.gov.au/visit/plan-your-visit)
 
 ### Queensland Museum
 
+* 🛑 23 March 2020 - Museum closed until further notice. [More info...](https://network.qm.qld.gov.au/About+Us/Health+and+safety+update#.XngFnIgzaUl?utm_source=twitter&utm_medium=social&utm_campaign=QMcancelled13032020)
 * ⚠️ 18 March 2020 - All public events and programs cancelled at all Queensland Museum Network locations until 30 April 2020. [More info...](https://network.qm.qld.gov.au/About+Us/Health+and+safety+update)
-
 * ⚠️ 17 March 2020 - World Science Festival Brisbane is cancelled, museum remains open to the public. [More info...](https://www.worldsciencefestival.com.au/)
 
 ### Queensland Police Museum
@@ -284,6 +291,7 @@ Things are changing rapidly, so check the links next to each update for current 
 
 ### State Library of Queensland
 
+* 🛑 23 March 2020 - Library is closed until further notice. [More info...](https://www.slq.qld.gov.au/alerts)
 * ⚠️ 17 March 2020 – Library remains open, but all public events and programs have been cancelled until further notice. [More info...](https://www.slq.qld.gov.au/alerts)
 
 ### Toowoomba Regional Libraries
@@ -335,6 +343,7 @@ Things are changing rapidly, so check the links next to each update for current 
 
 ### History Trust of South Australia
 
+* 🛑 23 March 2020  - Closed until further notice. [More info...](https://history.sa.gov.au/covid-19-information-and-updates/covid-19-update-museum-closures/)
 * ⚠️ 18 March 2020 - Suspending all education and public programs until further notice at the History Trust of SA and its four museums. [More info...](https://history.sa.gov.au/coronavirus-covid-19-update/)
 
 ### Kapunda Library
@@ -343,6 +352,7 @@ Things are changing rapidly, so check the links next to each update for current 
 
 ### Migration Museum
 
+* 🛑 23 March 2020  - Closed until further notice. [More info...](https://migration.history.sa.gov.au/coronavirus-covid-19-update/)
 * ⚠️ 18 March 2020 - Open but are suspending all education and public programs until further notice. [More info...](https://migration.history.sa.gov.au/coronavirus-covid-19-update/) 
 
 ### Millicent Library and Gallery
@@ -364,6 +374,7 @@ Things are changing rapidly, so check the links next to each update for current 
 
 ### National Motor Museum
 
+* 🛑 23 March 2020  - Closed until further notice. [More info...](https://motor.history.sa.gov.au/coronavirus-covid-19-update/)
 * ⚠️ 18 March 2020 - Open but are suspending all education and public programs until further notice. [More info...](https://motor.history.sa.gov.au/coronavirus-covid-19-update/)
 
 ### National Railway Museum
@@ -389,6 +400,7 @@ Things are changing rapidly, so check the links next to each update for current 
 
 ### South Australian Maritime Museum
 
+* 🛑 23 March 2020  - Closed until further notice. [More info...](https://maritime.history.sa.gov.au/coronavirus-covid-19-update/)
 * ⚠️ 18 March 2020 - Open but are suspending all education and public programs until further notice. [More info...](https://maritime.history.sa.gov.au/coronavirus-covid-19-update/)
 
 ### South Australian Museum
@@ -428,6 +440,7 @@ Things are changing rapidly, so check the links next to each update for current 
 
 ### The Centre of Democracy
 
+* 🛑 23 March 2020  - Closed until further notice. [More info...](http://centreofdemocracy.sa.gov.au/visit/)
 * ⚠️ 18 March 2020 - Open, but are suspending all staff education and public programs until further notice. [More info...](http://centreofdemocracy.sa.gov.au/coronavirus-covid-19-update/)
 
 ## Tasmania
@@ -841,7 +854,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 23 March 2020, 5:45pm.
+Last updated 23 March 2020, 7:32pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
