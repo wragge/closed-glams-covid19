@@ -6,8 +6,8 @@ Things are changing rapidly, so check the links next to each update for current 
 
 **Current totals:**
 
-🛑 111 GLAM institutions are completely closed  
-⚠️ 77 GLAM institutions are partially closed, have restricted services, or cancelled events
+🛑 112 GLAM institutions are completely closed  
+⚠️ 76 GLAM institutions are partially closed, have restricted services, or cancelled events
 
 * [ACT](#act)
 * [New South Wales](#nsw)
@@ -36,6 +36,7 @@ Things are changing rapidly, so check the links next to each update for current 
 
 ### Museum of Australian Democracy
 
+* 🛑 23 March 2020 – Closed until further notice. [More info...](https://www.moadoph.gov.au/covid-19-visitor-information/)
 * ⚠️ 17 March 2020 – Museum is open, but PlayUP and is closed and all public programs including tours, Backspace, and Family Action Packs have been suspended. [More info...](https://www.moadoph.gov.au/covid-19-visitor-information/)
 
 ### National Archives of Australia
