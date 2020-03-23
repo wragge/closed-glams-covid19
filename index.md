@@ -6,8 +6,8 @@ Things are changing rapidly, so check the links next to each update for current 
 
 **Current totals:**
 
-🛑 121 GLAM institutions are completely closed  
-⚠️ 67 GLAM institutions are partially closed, have restricted services, or cancelled events
+🛑 123 GLAM institutions are completely closed  
+⚠️ 66 GLAM institutions are partially closed, have restricted services, or cancelled events
 
 * [ACT](#act)
 * [New South Wales](#nsw)
@@ -261,6 +261,8 @@ Things are changing rapidly, so check the links next to each update for current 
 ### Queensland Museum
 
 * ⚠️ 18 March 2020 - All public events and programs cancelled at all Queensland Museum Network locations until 30 April 2020. [More info...](https://network.qm.qld.gov.au/About+Us/Health+and+safety+update)
+
+* 🛑 23 March 2020 - Museum closed until further notice. [More info...](https://network.qm.qld.gov.au/About+Us/Health+and+safety+update#.XngFnIgzaUl?utm_source=twitter&utm_medium=social&utm_campaign=QMcancelled13032020)
 
 * ⚠️ 17 March 2020 - World Science Festival Brisbane is cancelled, museum remains open to the public. [More info...](https://www.worldsciencefestival.com.au/)
 
@@ -839,7 +841,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 23 March 2020, 4:23pm.
+Last updated 23 March 2020, 5:33pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
