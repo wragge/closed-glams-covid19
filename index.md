@@ -799,6 +799,10 @@ For more information on closures of state-owned cultural institutions in Victori
 * ⚠️ 18 March 2020 – Events of more than 100 people are cancelled. Programs delivered by independent volunteer groups are suspended until further notice. [More info...](https://artgallery.wa.gov.au/covid-19)
 * ⚠️ 17 March 2020 – Remains open. [More info...](https://artgallery.wa.gov.au/covid-19)
 
+### City of Bunbury Public Libraries
+
+* 🛑 24 March 2020 - Closed to the public. [More info...](https://www.facebook.com/bunburylibrary/posts/3365909920090685)
+
 ### City of Canning Libraries
 
 * ⚠️ 19 March 2020 – Willetton Library and Bentley Hub closed from 23 March until further notice. Cannington and Riverton libraries will remain open. Library programming and events suspended. [More info...](https://www.canning.wa.gov.au/newsroom/willetton-library-and-bentley-hub-closures-e3105fa5)
@@ -862,7 +866,7 @@ For more information on closures of state-owned cultural institutions in Victori
 
 ----
 
-Last updated 23 March 2020, 9:04pm.
+Last updated 24 March 2020, 8:10pm.
 
 Tweet additions to [@wragge](https://twitter.com/wragge).
 
