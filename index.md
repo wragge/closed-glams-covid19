@@ -6,7 +6,7 @@ Things are changing rapidly, so check the links next to each update for current 
 
 **Current totals:**
 
-🛑 135 GLAM institutions are completely closed  
+🛑 136 GLAM institutions are completely closed  
 ⚠️ 53 GLAM institutions are partially closed, have restricted services, or cancelled events
 
 * [ACT](#act)
