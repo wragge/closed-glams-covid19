@@ -2,7 +2,7 @@
 
 *Tracking closures, cancellations, and reduced services in Australian galleries, libraries, archives, and museums.*
 
-**On 24 March the Prime Minister announced that galleries, museums, national institutions, historic sites, and libraries would no longer be allowed to open to the public. As a result, we're assuming that everything is closed, and we'll no longer be updating this list. It's not clear, however, whether this applies to university libraries, so you might want to check with your own institution.**
+**On 24 March the Prime Minister announced that galleries, museums, national institutions, historic sites, and libraries would no longer be allowed to open to the public. As a result, we're assuming that everything is closed (or will soon close), and we'll no longer be updating this list. It's not clear, however, whether this applies to university libraries, so you might want to check with your own institution.**
 
 **But even while they're closed to the public, many GLAM insitutions are working hard to make their collections and services available online in innovative ways. We're now shifting our efforts to document and share these activities. Head over to our new [Australian GLAM updates](https://ozglam.info/s/updates/page/welcome) page to see what's happening, and to share what your own institution is doing.**
 
